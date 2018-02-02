@@ -1,0 +1,9 @@
+deploy:
+  provider: s3
+  bucket: quze.co
+  access_key_id: $AWS_ID
+  secret_access_key: $AWS_SECRET_KEY
+
+language: node_js
+node_js:
+  - node
