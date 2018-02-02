@@ -1,0 +1,19 @@
+{
+  "name": "quzecomingsoon",
+  "version": "1.0.0",
+  "description": "The Coming soon package of quze inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuzeInc/QuzeComingSoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuzeInc/QuzeComingSoon/issues"
+  },
+  "homepage": "https://github.com/QuzeInc/QuzeComingSoon#readme"
+}
