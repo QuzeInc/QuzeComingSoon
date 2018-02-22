@@ -4,7 +4,10 @@
  * Made By Kartikeya and Nisarg
  * Thanks for MaterializeCSS.com
  */
-
+*
+{
+  font-family: 'Nunito', sans-serif;
+}
 .default_color{background-color: black !important}
 
 .default_color_text{color: black !important}

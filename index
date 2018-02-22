@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
     <meta name="theme-color" content="black">
     <link rel="shortcut icon" href="img/img3.png"/>
     <title> Quze | The Blockchain powered wallet for all your learning</title>
     <!-- CSS  -->
     <!--<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
     <link href="css/style.css" type="text/css" rel="stylesheet" >
 
@@ -33,13 +34,13 @@
                     <li><a href="#mission"><span style="font-size: 16px;">MISSION</span></a></li>
                     <li><a href="#app"><span style="font-size: 16px;">APP</span></a></li>
                     <li><a href="#team"><span style="font-size: 16px;">TEAM</span></a></li>
-                    <li><a href="events.html"><span style="font-size: 16px;">EVENTS</span></a></li>
+                    <li><a href="events"><span style="font-size: 16px;">EVENTS</span></a></li>
                 </ul>
                 <ul id="nav-mobile" class="side-nav">
                     <li><a href="#mission">MISSION</a></li>
                     <li><a href="#app">APP</a></li>
                     <li><a href="#team">TEAM</a></li>
-                    <li><a href="events.html">EVENTS</a></li>
+                    <li><a href="events">EVENTS</a></li>
                 </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars white-text"></i></a>
             </div>
