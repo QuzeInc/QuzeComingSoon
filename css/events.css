@@ -34,7 +34,6 @@
 .event-txt
 {
     margin-top:1em;
-    text-align: justify;
 }
 
 #venue-icon
@@ -92,4 +91,115 @@
 }
 #nav-mobile :hover{
   background-color: black; 
+}
+
+/* Payment Paymodal section */
+
+.Paymodal,
+.Paymodal-box {
+  z-index: 900;
+}
+
+/*.Paymodal-sandbox {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: transparent;
+}*/
+
+.Paymodal {
+  display: none; 
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0,0,0,.8);
+  overflow: auto;
+}
+
+.Paymodal-box {
+  position: relative;
+  width: 100%;
+  max-width: 350px;
+  margin: 100px auto;
+  animation-name: Paymodalbox;
+  animation-duration: .3s;
+  animation-timing-function: ease-out;
+}
+
+.Paymodal-header {
+  padding: 10px 30px;
+  background: #03A9F4;
+  color: #ffffff;
+}
+
+.Paymodal-body {
+  background: #ECEFF1;
+  padding: 60px 40px;
+}
+
+/* Close Button */
+.close-Paymodal {
+  text-align: right;
+  cursor: pointer;
+}
+
+/* Animation */
+@-webkit-keyframes Paymodalbox {
+  0% {
+    top: -250px; 
+    opacity: 0;
+  }
+  100% {
+    top: 0; 
+    opacity: 1;
+  }
+}
+
+@keyframes Paymodalbox {
+  0% {
+    top: -250px; 
+    opacity: 0;
+  }
+  100% {
+    top: 0; 
+    opacity: 1;
+  }
+}
+
+/* Aditional Styles */
+
+/*p {
+  line-height: 1.4em;
+}
+*/
+
+.Paymodal-trigger, button {
+  margin-left:33%;
+  padding: 15px 50px;
+  color: black;
+  border: 2px solid black;
+  text-decoration: none;
+  background-color: white;
+}
+
+.Paymodal-trigger {
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  transition: ease .2s;
+}
+
+button {
+  border: 1px solid #333333;
+  outline: none;
+  color: #333333;
+}
+
+.Paymodal-trigger:hover {
+  padding: 20px 60px;
 }
