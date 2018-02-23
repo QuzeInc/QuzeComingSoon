@@ -21,7 +21,7 @@
         <nav id="nav_f" role="navigation">
             <div class="container">
                 <div class="nav-wrapper">
-                    <a href="www.quze.co" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px;">QUZE</span></strong></a>
+                    <a href="index" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px;">QUZE</span></strong></a>
                     <ul class="right hide-on-med-and-down" id="top-menu">
                         <li><a href="index"><span style="font-size: 16px;">MISSION</span></a></li>
                         <li><a href="index"><span style="font-size: 16px;">APP</span></a></li>
