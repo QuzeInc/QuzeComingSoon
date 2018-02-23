@@ -23,15 +23,15 @@
                 <div class="nav-wrapper">
                     <a href="www.quze.co" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px;">QUZE</span></strong></a>
                     <ul class="right hide-on-med-and-down" id="top-menu">
-                        <li><a href="index"><span style="font-size: 16px;">MISSION</span></a></li>
-                        <li><a href="index"><span style="font-size: 16px;">APP</span></a></li>
-                        <li><a href="index"><span style="font-size: 16px;">TEAM</span></a></li>
+                        <li><a href="/"><span style="font-size: 16px;">MISSION</span></a></li>
+                        <li><a href="/"><span style="font-size: 16px;">APP</span></a></li>
+                        <li><a href="/"><span style="font-size: 16px;">TEAM</span></a></li>
                         <li><a href="#"><span style="font-size: 16px; font-weight:bold;">EVENTS</span></a></li>
                     </ul>
                     <ul id="nav-mobile" class="side-nav">
-                        <li><a href="index">MISSION</a></li>
-                        <li><a href="index">APP</a></li>
-                        <li><a href="index">TEAM</a></li>
+                        <li><a href="/">MISSION</a></li>
+                        <li><a href="/">APP</a></li>
+                        <li><a href="/">TEAM</a></li>
                         <li><a href="#" style="font-weight:bold;">EVENTS</a></li>
 
                     </ul>
