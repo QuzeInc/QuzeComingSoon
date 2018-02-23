@@ -9,9 +9,11 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lato:300|Roboto:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"> -->
+    
+    <!-- CSS -->
     <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
     <link  href="css/events.css" type="text/css" rel="stylesheet">
+    <link href="css/footer.css" type="text/css" rel="stylesheet">
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 </head>
@@ -41,19 +43,19 @@
         </nav>
     </div>
 
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <p id="event-date" class="col offset-m2">March 3rd and 4th, 2018</p>
             <hr id="main-hr">
         </div>
 
         <div class="row">
-            <div class="col m6">
+            <div class="col l4 m10 s12 offset-m1 offset-l1">
                 <img src="img/event1.jpeg" class="responsive-img event-img" /><br><br>
                 <!-- THE PAYMENT LINK -->
                 <!-- <a href="https://www.instamojo.com/@njnisarg/l76ee247b81544a9d987a22498aa2b1f6/" rel="im-checkout" data-behaviour="remote" data-style="flat" data-text="Book">Book</a> -->
             </div>
-            <div class="col m5 offset-m1">
+            <div class="col m10 l4 s12 offset-m1 offset-l1">
                 <h3 class="event-txt">Bitcoin And Its Underlying Technology Blockchain</h2>
                 <hr>
                 <h5><i class="fas fa-map-marker" id="venue-icon"></i>  Venue : iPlex, Vadodara</h5>
@@ -70,7 +72,7 @@
                 <h5><i class="fas fa-users" id="speakers-icon"></i> Speakers</h5>
 
                 <div class="row">
-                    <div class="col m6">
+                    <div class="col m6 l6 s6">
                         <div class="card">
                             <div class="card-image">
                                 <img src="img/imgPlaceholder.png">
@@ -82,7 +84,7 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="col m6">
+                    <div class="col m6 l6 s6">
                         <div class="card">
                             <div class="card-image">
                                 <img src="img/imgPlaceholder.png">
@@ -97,35 +99,106 @@
                 </div>
 
                 <!-- Paymodal SECTION-->
-                <div class="row">
-                    <div class="col m12">
+            
                 <!-- Paymodal Trigger -->
                         <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">Book Now</a> <!-- Trigger Paymodal. -->
-
+                    
                         <!-- Paymodal -->
                         <div class="Paymodal" id="Paymodal-name">
                           <div class="Paymodal-sandbox"></div>
                           <div class="Paymodal-box">
                             <div class="Paymodal-header">
                               <div class="close-Paymodal">&#10006;</div> 
-                              <h4 style="color:black">Book Now</h4>
-                              <h5>Bitcoin And Its Underlying Technology Blockchain</h5>
+                              <h4 style="color:black">Book now</h4>
+                              <h5>Bitcoin and its underlying technology blockchain</h5>
                             </div>
                             <div class="Paymodal-body">
+
+                              <p>NOTE : Please use 'STUDENT' as a discount code to avail student discount. Kindly carry your student ID to the venue else the entry would be done by paying the difference amount</p>
 
                               <a href="https://www.instamojo.com/quzeindia/bitcoin-and-the-underlying-technology-blockc/" rel="im-checkout" data-behaviour="remote" data-style="flat" data-text="Book Now For March 3rd"></a>
 
                               <a href="https://www.instamojo.com/quzeindia/bitcoin-and-and-its-underlying-technology-bl/" rel="im-checkout" data-behaviour="remote" data-style="flat" data-text="Book Now For March 4th"></a>
-            
+                              
                               <!-- <button class="close-Paymodal">Done</button> -->
                             </div>
                           </div>
-                        </div>
-                    </div>    
+                        </div>   
+
+
+                </div>
+        </div>
+        <!-- <footer class="page-footer" id="footerID">
+        <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Get In Touch</h5>
+                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Links</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2014 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+        </footer> -->
+
+        <footer class="footer-distributed">
+
+            <div class="footer-left">
+
+                <h3>Quze Inc</h3>
+
+                <p class="footer-links">
+                    <a href="index">Home</a>
+                    ·
+                    <a href="events">Events</a>
+                    .
+                    <a href="index">Mission</a>
+                    .
+                    <a href="index">Team</a>
+                </p>
+
+                <p class="footer-company-name">Quze Inc &copy; 2018</p>
+
+                <div class="footer-icons">
+
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-snapchat"></i></a>
+
                 </div>
 
-        </div>
-    </div>
+            </div>
+
+            <div class="footer-right">
+
+                <p>Contact Us</p>
+
+                <form action="#" method="post">
+
+                    <input type="text" name="Name" placeholder="Name" />
+                    <input type="text" name="email" placeholder="Email" />
+                    <textarea name="message" placeholder="Message"></textarea>
+                    <button>Send</button>
+
+                </form>
+
+            </div>
+
+        </footer>
 
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/events.js"></script>
