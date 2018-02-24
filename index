@@ -124,37 +124,103 @@ We aim to create a world where every individual has a way to learn what he reall
 With an amazing foundational technology like blockchain and other futuretech like Machine Learning, Artificial Intelligence, Cloud Computing and many more, we have the power to create an entirely new substructure for existing education system. Today the authorities are not aware about the utility and benefits of these technologies. We envision a future where acquiring and monetizing the skills would be on click of a button. Our platform would bridge the gap between online education and traditional classroom learning by providing a blockchain based solutions that allows to gain personalized learning paths and acquire new skills.</p>
             </div>
 
-            <div class="col s12 m3 l3">
-                <div class="center promo promo-example">
-                    <!-- <i class="mdi-image-flash-on"></i> -->
+            <div class="col s12 m6 l3">
+
+
+                <!-- <div class="center promo promo-example">
+                    <i class="mdi-image-flash-on"></i>
                     <img src="img/featureImg1.svg" class="responsive-img" style="max-width: 50%">
                     <h5 class="promo-caption">For Students and Learners</h5>
                     <p class="light center">People who are interested to learn new skills.The student’s public address/ vault would be having the record of all the classes he took or the certificates he acquired. the student complete ownership of his records but restricts him from falsifying any documents.</p>
+                </div> -->
+
+
+                <br><br>
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+                        <img class="activator" src="img/featureImg1.svg" style="max-width: 50%; left:25%;">
+                    </div>
+                    <div class="card-content"  style="color: white;background-color: black">
+                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Learners</p>
+                    </div>
+                    <div class="card-reveal" style="background-color: black;">
+                        <span class="card-title white-text text-darken-4">Learners<i class="mdi-navigation-close right"></i></span>
+                        <p style="color:white">People who are interested to learn new skills.The student’s public address/ vault would be having the record of all the classes he took or the certificates he acquired. the student complete ownership of his records but restricts him from falsifying any documents</p>
+                    </div>
                 </div>
+
             </div>
-            <div class="col s12 m3 l3">
-                <div class="center promo promo-example">
-                    <!-- <i class="mdi-image-flash-on"></i> -->
+            <div class="col s12 m6 l3">
+
+                <!-- <div class="center promo promo-example">
+                    <i class="mdi-image-flash-on"></i>
                     <img src="img/featureImg2.svg" class="responsive-img" style="max-width: 50%">
                     <h5 class="promo-caption">For Teachers and Mentors</h5>
                     <p class="light center">People who wish to provide the skills and monetize their skills. This platform will provide means to coordinate and create a distributed yet structural system of learning and teaching to provide people means of transferring skills outside school’s location and hours.</p>
+                </div> -->
+                <br><br>
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+                        <img class="activator" src="img/featureImg2.svg" style="max-width: 50%; left:25%;">
+                    </div>
+                    <div class="card-content" style="color: white;background-color: black">
+                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Educators</p>
+                    </div>
+                    <div class="card-reveal" style="background-color: black;">
+                        <span class="card-title white-text text-darken-4">Educators<i class="mdi-navigation-close right"></i></span>
+                        <p style="color: white">People who wish to provide the skills and monetize their skills. This platform will provide means to coordinate and create a distributed yet structural system of learning and teaching to provide people means of transferring skills outside school’s location and hours.</p>
+                    </div>
                 </div>
+
+
             </div>
-            <div class="col s12 m3 l3">
-                <div class="center promo promo-example">
-                    <!-- <i class="mdi-image-flash-on"></i> -->
+            <div class="col s12 m6 l3">
+
+                <!-- <div class="center promo promo-example">
+                    <i class="mdi-image-flash-on"></i>
                     <img src="img/featureImg4.svg" class="responsive-img" style="max-width: 50%">
                     <h5 class="promo-caption">For Employers</h5>
                     <p class="light center">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform by inputting parameters and find people with blockchain verified skills. Also, the employers will be able to verify all the certificates they receive with the candidate allowing the verification through access to his vault</p>
+                </div> -->
+
+                <br><br>
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+                        <img class="activator" src="img/featureImg4.svg" style="max-width: 50%; left:25%;">
+                    </div>
+                    <div class="card-content" style="color: white;background-color: black">
+                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Employers</p>
+                    </div>
+                    <div class="card-reveal" style="background-color: black;">
+                        <span class="card-title white-text text-darken-4">Employers<i class="mdi-navigation-close right"></i></span>
+                        <p style="color: white;">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform by inputting parameters and find people with blockchain verified skills. Also, the employers will be able to verify all the certificates they receive with the candidate allowing the verification through access to his vault</p>
+                    </div>
                 </div>
+
+
             </div>
-            <div class="col s12 m3 l3">
-                <div class="center promo promo-example">
-                    <!-- <i class="mdi-image-flash-on"></i> -->
+            <div class="col s12 m6 l3">
+                <!-- <div class="center promo promo-example">
+                    <i class="mdi-image-flash-on"></i>
                     <img src="img/featureImg3.png" class="responsive-img" style="max-width: 50%">
                     <h5 class="promo-caption">For Educational Institutions</h5>
                     <p class="light center">They will act as the quality checkers for the content. They will provide and verify the content and tests for numerous courses thus ensuring the quality of the courses. Any institution would be able to push in records onto the students profile only when the student approves that transfer.</p>
+                </div> -->
+
+                <br><br>
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+                        <img class="activator" src="img/featureImg3.png" style="max-width: 50%; left:25%;">
+                    </div>
+                    <div class="card-content" style="color: white;background-color: black">
+                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Institutions</p>
+                    </div>
+                    <div class="card-reveal" style="background-color: black;">
+                        <span class="card-title white-text text-darken-4">Institutions<i class="mdi-navigation-close right"></i></span>
+                        <p style="color:white">They will act as the quality checkers for the content. They will provide and verify the content and tests for numerous courses thus ensuring the quality of the courses. Any institution would be able to push in records onto the students profile only when the student approves that transfer.</p>
+                    </div>
                 </div>
+
             </div>
         </div>
     </div>
@@ -191,12 +257,12 @@ With an amazing foundational technology like blockchain and other futuretech lik
                         <img class="activator" src="img/imgPlaceholder.png">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
+                        <span class="card-title activator grey-text text-darken-4">Feature<i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href="#">See More</a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
+                        <p>Some text here</p>
                     </div>
                 </div>
             </div>

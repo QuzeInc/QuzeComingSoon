@@ -468,3 +468,9 @@ button {
   top:1em;
   border:2px solid #333333;
 }
+
+::-webkit-scrollbar
+{
+  width: 0;
+}
+
