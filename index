@@ -146,7 +146,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                     <div class="card-reveal" style="background-color: black;">
                         <span class="card-title white-text text-darken-4">Learners<i class="mdi-navigation-close right"></i></span>
-                        <p style="color:white">People who are interested to learn new skills.The student’s public address/ vault would be having the record of all the classes he took or the certificates he acquired. the student complete ownership of his records but restricts him from falsifying any documents</p>
+                        <p style="color:white">People who are interested to learn new skills.The student public vault would be having the record of all the skills he acquired. The student has complete ownership of his records but can't falsify them</p>
                     </div>
                 </div>
 
@@ -169,7 +169,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                     <div class="card-reveal" style="background-color: black;">
                         <span class="card-title white-text text-darken-4">Educators<i class="mdi-navigation-close right"></i></span>
-                        <p style="color: white">People who wish to provide the skills and monetize their skills. This platform will provide means to coordinate and create a distributed yet structural system of learning and teaching to provide people means of transferring skills outside school’s location and hours.</p>
+                        <p style="color: white">People who wish to provide the skills and monetize their skills. This platform creates a distributed yet structural system of learning to provide people means of transferring skills outside school hours.</p>
                     </div>
                 </div>
 
@@ -194,7 +194,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                     <div class="card-reveal" style="background-color: black;">
                         <span class="card-title white-text text-darken-4">Employers<i class="mdi-navigation-close right"></i></span>
-                        <p style="color: white;">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform by inputting parameters and find people with blockchain verified skills. Also, the employers will be able to verify all the certificates they receive with the candidate allowing the verification through access to his vault</p>
+                        <p style="color: white;">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform with blockchain verified skills. The employers will be able to verify all through access to his vault</p>
                     </div>
                 </div>
 
@@ -218,7 +218,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                     <div class="card-reveal" style="background-color: black;">
                         <span class="card-title white-text text-darken-4">Institutions<i class="mdi-navigation-close right"></i></span>
-                        <p style="color:white">They will act as the quality checkers for the content. They will provide and verify the content and tests for numerous courses thus ensuring the quality of the courses. Any institution would be able to push in records onto the students profile only when the student approves that transfer.</p>
+                        <p style="color:white">They will act as the quality checkers for the content. They will provide and verify the content and ensuring the quality of the courses. Any institution would be able to push in records onto the students profile.</p>
                     </div>
                 </div>
 
@@ -247,10 +247,10 @@ With an amazing foundational technology like blockchain and other futuretech lik
     </div>
 </div>
 
-<!--About-->
+<!--About
 <div class="section scrollspy" id="about">
     <div class="container">
-        <!-- <h2 class="header text_b center">About </h2> -->
+        <h2 class="header text_b center">About </h2>
         <div class="row">
 
 
@@ -345,7 +345,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                 </div>
             </div>
 
-            <!-- <div class="row">
+            <div class="row">
                 <div class="col l3 offset-l1">
                     <div class="row">
                         <div class="col l12 features-sidebar-toggle" style="padding: 1.2em" id="features-side1">Learning Engine</div>
@@ -359,11 +359,11 @@ With an amazing foundational technology like blockchain and other futuretech lik
                 <div class="col l7 offset-l1" style="padding:25px; background-color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor, magna vel scelerisque ultrices, lorem nulla fermentum diam, quis eleifend nulla erat at tortor. Integer vel quam sed turpis iaculis elementum. Integer in consectetur mi. Proin nec ligula sed orci blandit ornare et et diam. Fusce lobortis ullamcorper blandit. Donec dignissim viverra luctus. In a leo ipsum. Aenean vitae enim pulvinar nisi placerat consectetur ac in velit. Nam suscipit ante ante, at efficitur felis consequat in. Quisque leo erat, tincidunt sed enim ac, rhoncus tempus dolor. Phasellus auctor varius aliquet. Morbi ac lacinia erat, nec pulvinar elit.
 
 Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Donec nec turpis sed arcu ultricies ultrices. Suspendisse commodo vel lectus nec rutrum. In tincidunt ante sed ante maximus, maximus ultricies magna rutrum. Quisque dictum condimentum est, id facilisis velit ultricies eu. Morbi sed turpis sed urna semper mattis. Quisque nec consectetur mi. Curabitur ultricies eros vitae nulla semper, vel dignissim ante semper. Fusce laoreet ac risus sed condimentum. Mauris sagittis justo iaculis tortor pharetra venenatis. Praesent ultrices, libero eget scelerisque lobortis, augue felis sodales magna, sed congue purus elit sit amet magna. Donec in mattis sem. Morbi laoreet pulvinar elit, eget ullamcorper felis varius et.</div>
-            </div> -->
+            </div>
 
         </div>
     </div>
-</div>
+</div> -->
 <!-- TimeLine -->
 
 
