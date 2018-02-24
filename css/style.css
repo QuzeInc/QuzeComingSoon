@@ -308,7 +308,7 @@ input, textarea {
 }
 
 nav a.button-collapse {
-    left: -25px;
+    left: 0px;
 }
 
 .card-avatar .waves-effect {

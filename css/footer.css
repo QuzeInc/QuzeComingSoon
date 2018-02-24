@@ -201,5 +201,6 @@
 
 	.footer-distributed form button{
 		float: none;
+		left:80px;
 	}
 }
