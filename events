@@ -92,7 +92,7 @@
                 <p class="event-txt"></p>
                 
                 <hr>
-                <h5><i class="fas fa-users" id="speakers-icon"></i> Speakers</h5>
+                <h5>SPEAKERS</h5><hr>
 
                 <div class="row">
                     <div class="col m6 l6 s6">
@@ -126,9 +126,9 @@
                                 I am convenient because I require little markup to use effectively.</p>
                             </div>
                         </div> -->
-                        <img src="img/jaya2.jpeg" class="responsive-img" style="border-radius:50%">
+                        <img src="img/jaya2.jpeg" class="responsive-img" style="border-radius:50%;">
                     
-                        <h4> Jaya Lalwani</h4>
+                        <h4 style="margin-top:13px"> Jaya Lalwani</h4>
                         <h5> CFO </h5>
                         <p> Jaya is the business lead at Quze.
 She found out about bitcoins and blockchains in the year 2015. Since then she has been a strong believer of the blockchain technology and is researching about the same.
