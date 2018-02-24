@@ -3,6 +3,7 @@
 <head>
 
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html"/>
     <link rel="shortcut icon" href="img/img3.png"/>
     <title>Quze | Events</title>
@@ -52,7 +53,7 @@
         <div class="row">
             <div class="col l4 m10 s12 offset-m1 offset-l1">
                 <img src="img/event1.jpeg" class="responsive-img event-img" /><br><br>
-                <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">Book Now</a> <!-- Trigger Paymodal. -->
+                <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">BOOK NOW</a> <!-- Trigger Paymodal. -->
                     
                 <!-- Paymodal -->
                 <div class="Paymodal" id="Paymodal-name">
@@ -80,8 +81,8 @@
             <div class="col m10 l4 s12 offset-m1 offset-l1">
                 <h3 class="event-txt" style="font-size:25px; text-transform: uppercase;">Bitcoin And Its Underlying Technology Blockchain</h2>
                 <hr>
-                <h5><i class="fas fa-map-marker" id="venue-icon"></i>  Venue : iPlex, Vadodara</h5>
-                <h5><i class="fas fa-calendar-alt" id="time-icon"></i>  Time : March 3rd 5-7 pm</h5>
+                <h5><img src="img/venue.svg" style="max-width:22px;">  Venue : iPlex, Vadodara</h5>
+                <h5><img src="img/calender.svg" style="max-width:22px;">  Time : March 3rd and 4th 5-7 pm</h5>
                 <hr>
                 <p class="event-txt">
                     The market cap of cryptocurrencies like Bitcoin and Ethereum was 150 Billion USD in 2017 and hit 800 Billion USD in January 2018, before stabilizing around 500 billion dollars. This event is about discussing the underlying technology behind these cryptocurrencies, Blockchain and its uses, value and future.</p>
