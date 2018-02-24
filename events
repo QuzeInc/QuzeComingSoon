@@ -244,7 +244,7 @@ Before Quze, Jaya was working as a blockchain analyst to create blockchain based
                     <input type="text" name="Name" placeholder="Name" />
                     <input type="text" name="email" placeholder="Email" />
                     <textarea name="message" placeholder="Message"></textarea>
-                    <button class="footer-send">Send</button>
+                    <button class="footer-send" style="left:0;">Send</button>
 
                 </form>
 
