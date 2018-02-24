@@ -79,7 +79,7 @@
                 
             </div>
             <div class="col m10 l4 s12 offset-m1 offset-l1">
-                <h3 class="event-txt" style="font-size:25px; text-transform: uppercase; font-weight:bold;">Bitcoin And Its Underlying Technology Blockchain</h2>
+                <h3 class="event-txt" style="font-size:25px; text-transform: uppercase; font-weight:bold;">Bitcoin And Its Underlying Technology Blockchain</h3>
                 <hr>
                 <h5 style="font-size: 20px"><img src="img/venue.svg" style="max-width:22px;">  VENUE : iPlex, Vadodara</h5>
                 <h5 style="font-size: 20px"><img src="img/calender.svg" style="max-width:22px;">  TIME : March 3rd and 4th 5-7 pm</h5>
@@ -128,83 +128,38 @@
                         </div>
                     </div>
                 </p>
-                
-                <hr>
-                <h5>SPEAKERS</h5><hr>
+        </div>
+
 
                 <div class="row">
-                    <div class="col m6 l6 s6">
-                        <!-- <div class="card">
-                            <div class="card-image">
-                                <img src="img/stavan.jpeg" style="height:20em">
-                                <span class="card-title">Stavan Patel</span>
-                            </div>
-                            <div class="card-content">
-                                <p>I am a very simple card. I am good at containing small bits of information.
-                                I am convenient because I require little markup to use effectively.</p>
-                            </div>
-                        </div> -->
+                    <hr class="col m10 l10 s12 offset-l1 offset-m1">
+                    <h5 class="col m10 l10 s12 offset-l1 offset-m1">SPEAKERS</h5>
+                    <hr class="col m10 s12 l10 offset-m1 offset-l1">
 
-                        <img src="img/stavan2.jpeg" class="responsive-img" style="border-radius:50%">
+                    <div class="col m3 l3 s12 offset-l2 offset-m2">
+                        <br>
+                        <img src="img/stavan2.jpeg" class="responsive-img" style="border-radius:50%;width:60%;position: relative;left:20%">
                         <h4> Stavan Patel</h4>
                         <h5> Founder and CEO </h5>
-                        <p>
+                        <p style="font-size:18px;line-height: 1.3em;text-align:justify">
                             Stavan is the CEO and Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology. He also shares a passion for teaching and has varied experience simplifying complex technological concepts to masses around the world. He has taught around Americas, Europe, Africa and Asia and understands how the education system can be evolved to fit the student of today. Before Quze, Stavan was working with Microsoft, developing custom-cloud solutions for Fortune-500 clients and creating intuitive user experiences
                         </p>
 
                     </div>
-                    <div class="col m6 l6 s6">
-                        <!-- <div class="card">
-                            <div class="card-image">
-                                <img src="img/jaya.jpeg" style="height: 20em">
-                                <span class="card-title">Jaya Lalwani</span>
-                            </div>
-                            <div class="card-content">
-                                <p>I am a very simple card. I am good at containing small bits of information.
-                                I am convenient because I require little markup to use effectively.</p>
-                            </div>
-                        </div> -->
-                        <img src="img/jaya2.jpeg" class="responsive-img" style="border-radius:50%;">
-                    
+                    <div class="col m3 l3 s12 offset-l2 offset-m2">
+                        <br>
+                        <img src="img/jaya2.jpeg" class="responsive-img" style="border-radius:50%;width:60%;position:relative;left:20%">
                         <h4 style="margin-top:13px"> Jaya Lalwani</h4>
                         <h5> CFO </h5>
-                        <p> Jaya is the business lead at Quze.
-She found out about bitcoins and blockchains in the year 2015. Since then she has been a strong believer of the blockchain technology and is researching about the same.
-She is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem.
-Before Quze, Jaya was working as a blockchain analyst to create blockchain based solutions for the banking sector in India and the Middle East.
+                        <p style="font-size:18px;line-height: 1.3em;text-align:justify"> Jaya is the business lead at Quze.
+                            She found out about bitcoins and blockchains in the year 2015. Since then she has been a strong believer of the blockchain technology and is researching about the same.
+                            She is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem.
+                            Before Quze, Jaya was working as a blockchain analyst to create blockchain based solutions for the banking sector in India and the Middle East.
                         </p>
 
                     </div>
-                </div> 
-
-
                 </div>
         </div>
-        <!-- <footer class="page-footer" id="footerID">
-        <div class="container">
-            <div class="row">
-              <div class="col l6 s12">
-                <h5 class="white-text">Get In Touch</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-              </div>
-              <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
-                <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="footer-copyright">
-            <div class="container">
-            © 2014 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
-            </div>
-          </div>
-        </footer> -->
 
         <footer class="footer-distributed">
 
