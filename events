@@ -52,7 +52,7 @@
 
         <div class="row">
             <div class="col l4 m10 s12 offset-m1 offset-l1">
-                <img src="img/event1.jpeg" class="responsive-img event-img" /><br><br>
+                <img src="img/event2.png" class="responsive-img event-img" /><br><br>
                 <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">BOOK NOW</a> <!-- Trigger Paymodal. -->
                     
                 <!-- Paymodal -->
@@ -62,7 +62,7 @@
                     <div class="Paymodal-header">
                       <div class="close-Paymodal">&#10006;</div> 
                       <h4 style="color:black">Book now</h4>
-                      <h5>Bitcoin and its underlying technology blockchain</h5>
+                      <h5 >Bitcoin and its underlying technology blockchain</h5>
                     </div>
                     <div class="Paymodal-body">
 
@@ -79,45 +79,63 @@
                 
             </div>
             <div class="col m10 l4 s12 offset-m1 offset-l1">
-                <h3 class="event-txt" style="font-size:25px; text-transform: uppercase;">Bitcoin And Its Underlying Technology Blockchain</h2>
+                <h3 class="event-txt" style="font-size:25px; text-transform: uppercase; font-weight:bold;">Bitcoin And Its Underlying Technology Blockchain</h2>
                 <hr>
-                <h5><img src="img/venue.svg" style="max-width:22px;">  Venue : iPlex, Vadodara</h5>
-                <h5><img src="img/calender.svg" style="max-width:22px;">  Time : March 3rd and 4th 5-7 pm</h5>
+                <h5 style="font-size: 20px"><img src="img/venue.svg" style="max-width:22px;">  VENUE : iPlex, Vadodara</h5>
+                <h5 style="font-size: 20px"><img src="img/calender.svg" style="max-width:22px;">  TIME : March 3rd and 4th 5-7 pm</h5>
                 <hr>
                 <p class="event-txt">
                     The market cap of cryptocurrencies like Bitcoin and Ethereum was 150 Billion USD in 2017 and hit 800 Billion USD in January 2018, before stabilizing around 500 billion dollars. This event is about discussing the underlying technology behind these cryptocurrencies, Blockchain and its uses, value and future.</p>
                 <p class="event-txt"> With the industry developing at a rapid pace, Blockchain Technology is starting to capture the attention of the financial and banking spheres. It has started to spread its roots in medicine, insurance, document circulation, solar, amongst many other industries.
                     The speakers are the people who have the industry experience of trading in cryptos and are using Blockchain technology to rewire the entire education system. For further details, visit quze.co
                 </p>
-                <p class="event-txt"> Get in touch at 7987948439 for registrations</p>
+                <p class="event-txt"></p>
                 
                 <hr>
                 <h5><i class="fas fa-users" id="speakers-icon"></i> Speakers</h5>
 
                 <div class="row">
                     <div class="col m6 l6 s6">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-image">
-                                <img src="img/imgPlaceholder.png">
+                                <img src="img/stavan.jpeg" style="height:20em">
                                 <span class="card-title">Stavan Patel</span>
                             </div>
-                            <!-- <div class="card-content">
+                            <div class="card-content">
                                 <p>I am a very simple card. I am good at containing small bits of information.
                                 I am convenient because I require little markup to use effectively.</p>
-                            </div> -->
-                        </div>
+                            </div>
+                        </div> -->
+
+                        <img src="img/stavan2.jpeg" class="responsive-img" style="border-radius:50%">
+                        <h4> Stavan Patel</h4>
+                        <h5> Founder and CEO </h5>
+                        <p>
+                            Stavan is the CEO and Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology. He also shares a passion for teaching and has varied experience simplifying complex technological concepts to masses around the world. He has taught around Americas, Europe, Africa and Asia and understands how the education system can be evolved to fit the student of today. Before Quze, Stavan was working with Microsoft, developing custom-cloud solutions for Fortune-500 clients and creating intuitive user experiences
+                        </p>
+
                     </div>
                     <div class="col m6 l6 s6">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-image">
-                                <img src="img/imgPlaceholder.png">
+                                <img src="img/jaya.jpeg" style="height: 20em">
                                 <span class="card-title">Jaya Lalwani</span>
                             </div>
-                            <!-- <div class="card-content">
+                            <div class="card-content">
                                 <p>I am a very simple card. I am good at containing small bits of information.
                                 I am convenient because I require little markup to use effectively.</p>
-                            </div> -->
-                        </div>
+                            </div>
+                        </div> -->
+                        <img src="img/jaya2.jpeg" class="responsive-img" style="border-radius:50%">
+                    
+                        <h4> Jaya Lalwani</h4>
+                        <h5> CFO </h5>
+                        <p> Jaya is the business lead at Quze.
+She found out about bitcoins and blockchains in the year 2015. Since then she has been a strong believer of the blockchain technology and is researching about the same.
+She is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem.
+Before Quze, Jaya was working as a blockchain analyst to create blockchain based solutions for the banking sector in India and the Middle East.
+                        </p>
+
                     </div>
                 </div> 
 

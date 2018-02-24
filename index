@@ -8,6 +8,7 @@
     <title> Quze | The Blockchain powered wallet for all your learning</title>
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
     <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
     <link href="css/style.css" type="text/css" rel="stylesheet" >
     <link href="css/footer.css" type="text/css" rel="stylesheet">
@@ -251,6 +252,8 @@ With an amazing foundational technology like blockchain and other futuretech lik
     <div class="container">
         <!-- <h2 class="header text_b center">About </h2> -->
         <div class="row">
+
+
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
@@ -341,6 +344,23 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                 </div>
             </div>
+
+            <!-- <div class="row">
+                <div class="col l3 offset-l1">
+                    <div class="row">
+                        <div class="col l12 features-sidebar-toggle" style="padding: 1.2em" id="features-side1">Learning Engine</div>
+                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side2">Proof of Learning</div>
+                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side3">Proof of Brain</div>
+                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side4">Blockcerts</div>
+                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side5">Value</div>
+                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side6">Value</div>
+                    </div>
+                </div>
+                <div class="col l7 offset-l1" style="padding:25px; background-color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor, magna vel scelerisque ultrices, lorem nulla fermentum diam, quis eleifend nulla erat at tortor. Integer vel quam sed turpis iaculis elementum. Integer in consectetur mi. Proin nec ligula sed orci blandit ornare et et diam. Fusce lobortis ullamcorper blandit. Donec dignissim viverra luctus. In a leo ipsum. Aenean vitae enim pulvinar nisi placerat consectetur ac in velit. Nam suscipit ante ante, at efficitur felis consequat in. Quisque leo erat, tincidunt sed enim ac, rhoncus tempus dolor. Phasellus auctor varius aliquet. Morbi ac lacinia erat, nec pulvinar elit.
+
+Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Donec nec turpis sed arcu ultricies ultrices. Suspendisse commodo vel lectus nec rutrum. In tincidunt ante sed ante maximus, maximus ultricies magna rutrum. Quisque dictum condimentum est, id facilisis velit ultricies eu. Morbi sed turpis sed urna semper mattis. Quisque nec consectetur mi. Curabitur ultricies eros vitae nulla semper, vel dignissim ante semper. Fusce laoreet ac risus sed condimentum. Mauris sagittis justo iaculis tortor pharetra venenatis. Praesent ultrices, libero eget scelerisque lobortis, augue felis sodales magna, sed congue purus elit sit amet magna. Donec in mattis sem. Morbi laoreet pulvinar elit, eget ullamcorper felis varius et.</div>
+            </div> -->
+
         </div>
     </div>
 </div>
