@@ -473,20 +473,3 @@ button {
 {
   width: 0;
 }
-
-
-.features-sidebar-toggle
-{
-
-  margin-bottom: 10px;
-  background-color: #59a2f7;
-  color:white;
-  
-}
-
-.features-sidebar
-{
-  margin-bottom: 10px;
-  background-color: white;
-  color:black;
-}

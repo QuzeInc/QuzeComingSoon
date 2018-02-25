@@ -7,4 +7,3 @@ $(".SubscribeModal-trigger").click(function(e){
 $(".close-SubscribeModal, .SubscribeModal-sandbox").click(function(){
   $(".SubscribeModal").css({"display":"none"});
 });
-
