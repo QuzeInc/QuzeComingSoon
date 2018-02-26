@@ -429,9 +429,9 @@ footer.page-footer {
   }
 }
 
-/* Aditional Styles */
+/* Additional Styles */
 
-.SubscribeModal-trigger, button {
+.SubscribeModal-trigger /*button*/ {
   position: relative;
   left:50%;
   top:-20px;
@@ -472,4 +472,20 @@ button {
 ::-webkit-scrollbar
 {
   width: 0;
+}
+
+.eventsPageBtn
+{
+    padding:15px 30px;
+    position: relative;
+    left:47%;
+    color:black;
+    background-color: white;
+
+}
+
+.eventsPageBtn:hover
+{
+    color:white;
+    background-color: black;
 }
