@@ -89,13 +89,13 @@
             </div>   -->
 
             <!-- Subscribe modal -->
-            <a href="#" class="SubscribeModal-trigger" data-SubscribeModal="SubscribeModal-name">Subscribe</a>
+            <a href="#" class="SubscribeModal-trigger button" data-SubscribeModal="SubscribeModal-name">SUBSCRIBE</a>
             <div class="SubscribeModal" id="SubscribeModal-name">
               <div class="SubscribeModal-sandbox"></div>
               <div class="SubscribeModal-box">
                 <div class="SubscribeModal-header">
                   <div class="close-SubscribeModal">&#10006;</div> 
-                  <h5 style="color:black">SUBSCRIBE</h5>
+                  <h5 style="color:black;" class="button">SUBSCRIBE</h5>
                 </div>
                 <div class="SubscribeModal-body">
                   <form action="https://formkeep.com/f/b596b0f7e98d" method="POST" accept-charset="UTF-8">
@@ -248,9 +248,9 @@ With an amazing foundational technology like blockchain and other futuretech lik
 
 
 
-<div class="section scrollspy" id="about">
+<!-- <div class="section scrollspy" id="about">
     <div class="container">
-        <!--<h2 class="header text_b center">About </h2>
+        <h2 class="header text_b center">About </h2>
         <div class="row">
 
 
@@ -347,11 +347,11 @@ With an amazing foundational technology like blockchain and other futuretech lik
 
 
 
-        </div>-->
+        </div>
 
 
     </div>
-</div>
+</div> -->
 
 
 
@@ -646,8 +646,8 @@ With an amazing foundational technology like blockchain and other futuretech lik
 
 
 <div class="row">
-    <br><br><h3 style="text-align: center">Learn more about our incoming events</h3><br><br>
-    <a href="events"><button class="eventsPageBtn">Events</button></a>
+    <br><br><br><br>
+    <a href="events"><button class="eventsPageBtn button" style="width: 32%; left: 50%; margin-left: -16%; padding-right: 0;padding-left: 0;">VIEW UPCOMING EVENTS</button></a>
 
 </div>
 
