@@ -104,3 +104,67 @@ $("#samayReadMore").click(function(){
     }
 
 });
+
+/*
+var state2 = [1,1,1,1,1];
+
+$("#left-0").click(function(){
+    $("#left-0").css({"background-color":"#59a2f7","color":"white"});
+    $("#left-1").css({"background-color":"#efefef","color":"black"});
+    $("#left-2").css({"background-color":"#efefef","color":"black"});
+    $("#left-3").css({"background-color":"#efefef","color":"black"});
+    $("#left-4").css({"background-color":"#efefef","color":"black"});
+    $("#right-1").css({"display":"block"});
+    $("#right-0").css({"display":"none"});
+    $("#right-2").css({"display":"none"});
+    $("#right-3").css({"display":"none"});
+    $("#right-4").css({"display":"none"});
+});
+$("#left-1").click(function(){
+    $("#left-1").css({"background-color":"#59a2f7","color":"white"});
+    $("#left-0").css({"background-color":"#efefef","color":"black"});
+    $("#left-2").css({"background-color":"#efefef","color":"black"});
+    $("#left-3").css({"background-color":"#efefef","color":"black"});
+    $("#left-4").css({"background-color":"#efefef","color":"black"});
+    $("#right-1").css({"display":"block"});
+    $("#right-0").css({"display":"none"});
+    $("#right-2").css({"display":"none"});
+    $("#right-3").css({"display":"none"});
+    $("#right-4").css({"display":"none"});
+});
+$("#left-2").click(function(){
+    $("#left-2").css({"background-color":"#59a2f7","color":"white"});
+    $("#left-1").css({"background-color":"#efefef","color":"black"});
+    $("#left-0").css({"background-color":"#efefef","color":"black"});
+    $("#left-3").css({"background-color":"#efefef","color":"black"});
+    $("#left-4").css({"background-color":"#efefef","color":"black"});
+    $("#right-2").css({"display":"block"});
+    $("#right-1").css({"display":"none"});
+    $("#right-0").css({"display":"none"});
+    $("#right-3").css({"display":"none"});
+    $("#right-4").css({"display":"none"});
+});
+$("#left-3").click(function(){
+    $("#left-3").css({"background-color":"#59a2f7","color":"white"});
+    $("#left-0").css({"background-color":"#efefef","color":"black"});
+    $("#left-2").css({"background-color":"#efefef","color":"black"});
+    $("#left-1").css({"background-color":"#efefef","color":"black"});
+    $("#left-4").css({"background-color":"#efefef","color":"black"});
+    $("#right-3").css({"display":"block"});
+    $("#right-0").css({"display":"none"});
+    $("#right-1").css({"display":"none"});
+    $("#right-2").css({"display":"none"});
+    $("#right-4").css({"display":"none"});
+});
+$("#left-4").click(function(){
+    $("#left-4").css({"background-color":"#59a2f7","color":"white"});
+    $("#left-0").css({"background-color":"#efefef","color":"black"});
+    $("#left-2").css({"background-color":"#efefef","color":"black"});
+    $("#left-3").css({"background-color":"#efefef","color":"black"});
+    $("#left-1").css({"background-color":"#efefef","color":"black"});
+    $("#right-4").css({"display":"block"});
+    $("#right-0").css({"display":"none"});
+    $("#right-2").css({"display":"none"});
+    $("#right-3").css({"display":"none"});
+    $("#right-1").css({"display":"none"});
+});*/
