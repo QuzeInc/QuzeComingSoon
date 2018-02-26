@@ -247,8 +247,9 @@ With an amazing foundational technology like blockchain and other futuretech lik
     </div>
 </div>
 
-<!--About
-<div class="section scrollspy" id="about">
+
+
+<!--<div class="section scrollspy" id="about">
     <div class="container">
         <h2 class="header text_b center">About </h2>
         <div class="row">
@@ -260,12 +261,72 @@ With an amazing foundational technology like blockchain and other futuretech lik
                         <img class="activator" src="img/imgPlaceholder.png">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
+                        <span class="card-title activator grey-text text-darken-4">Learning Engine<i class="mdi-navigation-more-vert right"></i></span>
+
                     </div>
                     <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Some text here</p>
+                        <span class="card-title grey-text text-darken-4">Learning Engine <i class="mdi-navigation-close right"></i></span>
+                        <p>Under the hood of Quze resides the learning engine which uses all the data on the blockchain, analysis it and feeds it to an ever growing artificial intelligence which can then can suggest you with courses related to the one you just completed, skills that can increase the pay you receive and make the whole experience of learning much more immersive and “smart”. This integration of blockchain and machine learning will allow Quze to guide a whole generation to the path best suited for them even in a environment which more dynamic than any of our imaginations.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/imgPlaceholder.png">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Proof of Learning <i class="mdi-navigation-more-vert right"></i></span>
+
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Proof of Learning<i class="mdi-navigation-close right"></i></span>
+                        <p>Quze platform would work on Proof-of-Learning concept. Our platform would facilitate the interaction between the student and the mentor for the skill transfer or academic learning, but in order to get the certification for that learning, the student will have to upload his proof of learning on to the blockchain providing incentives for the other mentor of who could verify that the skill transfer did really happen. If it is a core skill and the transfer can be verified with an exam, the universities would be incentivised to provide the content, the test and at the same time the professor would be incentivized to check the answers. Where soft skills are concern, a proof like a live video can be uploaded onto the blockchain asking the mentors of those skills to verify and in turn incentivizing them for their time.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/imgPlaceholder.png">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Personalized Vault<i class="mdi-navigation-more-vert right"></i></span>
+
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title activator grey-text text-darken-4">Personalized Vault <i class="mdi-navigation-close right"></i></span>
+                        <p>The student’s public address/ vault would be having record of all the classes he took or the certificates he acquired. Any institution would be able to push in records onto the students profile only when the student approves that transfer. Also, the employers will be able to verify all the certificates just by the candidate allowing the verification through access to his vault. This gives the student complete ownership of his records but restricts him of falsifying any documents.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/imgPlaceholder.png">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Reliable Content <i class="mdi-navigation-more-vert right"></i></span>
+
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Reliable Content <i class="mdi-navigation-close right"></i></span>
+                        <p>We might think that the educational institutions today are turning into more of a profit generating business than a knowledge generating place but the are very important for the only reason that they standardise the process. We can not have a system where every individual is creating their own content to teach. That way the quality of most of the courses will degrade. That is where the universities come in.They will ensure the quality of the content or the system defining proper guidelines for the stages of education in every field.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/imgPlaceholder.png">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Share, Learn and Earn <i class="mdi-navigation-more-vert right"></i></span>
+
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Share, Learn and Earn <i class="mdi-navigation-close right"></i></span>
+                        <p>today most of the people think of education as a monotonous process of going to different institutions and finishing the course. Quze platform aims to change the entire experience of education. According to us, every student should have equal opportunity to learn whatever he wishes. Every educator should have reach to the masses to find the right student who has learning spirit and passion for the skill that the educator can transfer and get a fair remuneration for the skill transfer. Universities will get benefit for providing the content and verifying the skill transfer. Also, the universities will be able to digitally sign the record and send it to the student on a blockchain that makes the transaction immutable and reduces the pain of physically maintaining the record. The employers mostly ignore the verification of employees and end up hiring the wrong candidate. As a result the business suffers. This happens because the verification process is cumbersome and costly. Our platform would provide employers with the verification ease, at a minimal cost.</p>
                     </div>
                 </div>
             </div>
@@ -276,67 +337,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/imgPlaceholder.png">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/imgPlaceholder.png">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/imgPlaceholder.png">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/imgPlaceholder.png">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Feature <i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#">See More</a></p>
+
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Feature <i class="mdi-navigation-close right"></i></span>
@@ -345,25 +346,11 @@ With an amazing foundational technology like blockchain and other futuretech lik
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col l3 offset-l1">
-                    <div class="row">
-                        <div class="col l12 features-sidebar-toggle" style="padding: 1.2em" id="features-side1">Learning Engine</div>
-                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side2">Proof of Learning</div>
-                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side3">Proof of Brain</div>
-                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side4">Blockcerts</div>
-                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side5">Value</div>
-                        <div class="col l12 features-sidebar" style="padding: 1.2em" id="features-side6">Value</div>
-                    </div>
-                </div>
-                <div class="col l7 offset-l1" style="padding:25px; background-color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor, magna vel scelerisque ultrices, lorem nulla fermentum diam, quis eleifend nulla erat at tortor. Integer vel quam sed turpis iaculis elementum. Integer in consectetur mi. Proin nec ligula sed orci blandit ornare et et diam. Fusce lobortis ullamcorper blandit. Donec dignissim viverra luctus. In a leo ipsum. Aenean vitae enim pulvinar nisi placerat consectetur ac in velit. Nam suscipit ante ante, at efficitur felis consequat in. Quisque leo erat, tincidunt sed enim ac, rhoncus tempus dolor. Phasellus auctor varius aliquet. Morbi ac lacinia erat, nec pulvinar elit.
 
-Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Donec nec turpis sed arcu ultricies ultrices. Suspendisse commodo vel lectus nec rutrum. In tincidunt ante sed ante maximus, maximus ultricies magna rutrum. Quisque dictum condimentum est, id facilisis velit ultricies eu. Morbi sed turpis sed urna semper mattis. Quisque nec consectetur mi. Curabitur ultricies eros vitae nulla semper, vel dignissim ante semper. Fusce laoreet ac risus sed condimentum. Mauris sagittis justo iaculis tortor pharetra venenatis. Praesent ultrices, libero eget scelerisque lobortis, augue felis sodales magna, sed congue purus elit sit amet magna. Donec in mattis sem. Morbi laoreet pulvinar elit, eget ullamcorper felis varius et.</div>
-            </div>
 
         </div>
     </div>
-</div> -->
+</div>-->
 
 
 
@@ -377,17 +364,21 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
 <!--Team-->
 <div class="section scrollspy" id="team">
     <div class="container">
+
+        <br>
+        <h4 style="text-align:center"> Core Team</h4>
+        <br>
         <!-- <h2 class="header text_b center"> Our Team </h2> -->
         <div class="row">
             <div class="col s12 m3 offset-m2">
-                <div class="card card-avatar">
+                <div class="card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/stavan.png">
+                        <img class="activator" src="img/stavan2.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Stavan<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">CEO</a></em></small></span>
-                        <p>
+                        <h5><span class="card-title activator grey-text text-darken-4">Stavan<br/>
+                            <small><em>CEO</em></small></span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -400,20 +391,29 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+                        <p style="text-align: justify;padding: 20px; display:block;" id="stavanInfo">
+                        Stavan is the CEO & Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology . He also shares a passion for teaching ...
                         </p>
+                        <p id="stavanMoreInfo" style="text-align: justify;padding: 20px; display:none;">
+                            Stavan is the CEO & Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology. He also shares a passion for teaching and has varied experience simplifying complex technological concepts to masses around the world. He has taught around Americas, Europe, Africa and Asia and understands how the education system can be evolved to fit the student of today. Before Quze, Stavan was working with Microsoft, developing custom-cloud solutions for Fortune-500 clients and creating intuitive user experiences.
+
+                        </p>
+                        <p id="stavanReadMore" style="cursor: pointer; color:#787878">
+                            Read More</p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m3">
-                <div class="card card-avatar">
+                <div class="card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/akshay.png">
+                        <img class="activator" src="img/akshay.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Akshay<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">CTO</a></em></small>
-                        </span>
-                        <p>
+                        <h5><span class="card-title activator grey-text text-darken-4">Akshay<br/>
+                            <small><em>CTO</em></small>
+                        </span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -426,20 +426,32 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+                        <p style="text-align: justify;padding: 20px; display: block;" id="akshayInfo">
+                            Akshay brings his experience in blockchain development, algorithms and building large scale software systems to Quze. As a Software Development Engineer in Amazon transportation, Akshay was responsible for designing a new optimization system that reduced $150mm in transportation costs...
+                        </p>
+
+                        <p style="text-align: justify;padding: 20px;display: none;"id="akshayMoreInfo">
+                            Akshay brings his experience in blockchain development, algorithms and building large scale software systems to Quze. As a Software Development Engineer in Amazon transportation, Akshay was responsible for designing a new optimization system that reduced $150mm in transportation costs annually, as well as graph algorithms for identifying missed opportunities in the transportation network. Akshay has an engineering degree with honors and a minor in business from University of Illinois at Urbana-Champaign.
+                        </p>
+
+                        <p id="akshayReadMore" style="cursor: pointer; color:#787878">
+                            Read More
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m3">
-                <div class="card card-avatar">
+                <div class=" card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/jaya.png">
+                        <img class="activator" src="img/jaya.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">
+                        <h5><span class="card-title activator grey-text text-darken-4">
                             Jaya<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">CFO</a></em></small></span>
-                        <p>
+                            <small><em>CFO</em></small>
+                        </span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -452,19 +464,34 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+
+                        <p style="text-align: justify;padding: 20px; display:block;" id="jayaInfo">
+                            Jaya is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem.
+
+
+                        </p>
+                        <p style="text-align: justify;padding: 20px; display:none;" id="jayaMoreInfo">
+                            Jaya is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem.She has worked with various social organizations to understand the people and their needs better.During her graduation she scored a scholarship program with the University of Economics Varna and immidiately after the graduation, a scholarship program for investment banking with the Bombay Stock Exchange.
+                            She aims work in various sector and build a world where everyone is able to have basic needs of their life fulfilled
+                        </p>
+                        <p id="jayaReadMore" style="cursor: pointer;color:#787878">
+                            Read More
                         </p>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col s12 m3 offset-m2">
-                <div class="card card-avatar">
+                <div class=" card-avatar">
                     <div class="waves-effect waves-block waves-light">
                         <img class="activator" src="img/nisarg.png">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Nisarg<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Backend Developer</a></em></small></span>
-                        <p>
+                        <h5><span class="card-title activator grey-text text-darken-4">Nisarg<br/>
+                            <small><em>Backend Developer</em></small></span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -477,19 +504,26 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+                        <p style="text-align: justify; padding:20px;" id="nisargInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain
                         </p>
+                        <p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform
+                        </p>
+                        <p id="nisargReadMore" style="cursor: pointer;color:#787878"> Read More </p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m3">
-                <div class="card card-avatar">
+                <div class=" card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/kartikeya.png">
+                        <img class="activator" src="img/kartikeya.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Kartikeya<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Frontend Developer</a></em></small></span>
-                        <p>
+                        <h5><span class="card-title activator grey-text text-darken-4">Kartikeya<br/>
+                            <small><em>Frontend Developer</em></small></span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -502,19 +536,26 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+                        <p style="text-align: justify; padding:20px;" id="kartikeyaInfo">
+                            Pursuing his undergraduate studies in computer sciences, Kartikeya is a software designer and developer with interests in developing beautiful interfaces and designs
                         </p>
+                        <p style="text-align: justify;padding: 20px; display:none" id="kartikeyaMoreInfo">
+                            Pursuing his undergraduate studies in computer sciences, Kartikeya is a software designer and developer with interests in developing beautiful interfaces and designs that feel natural to interact with. He is also passionate about working in the educational space to bring skill development opportunities to all the students through technology
+                        </p>
+                        <p id="kartikeyaReadMore" style="cursor: pointer;color:#787878"> Read More </p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m3">
-                <div class="card card-avatar">
+                <div class="card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/samay.png">
+                        <img class="activator" src="img/anuj.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Samay<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Blockchain Analyst</a></em></small></span>
-                        <p>
+                        <h5><span class="card-title activator grey-text text-darken-4">Samay<br/>
+                            <small><em>Blockchain Analyst</em></small></span></h5>
+                        <!--<p>
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-facebook"></i>
                             </a>
@@ -527,60 +568,77 @@ Suspendisse potenti. In hac habitasse platea dictumst. Suspendisse potenti. Done
                             <a class="blue-text text-lighten-2" href="#">
                                 <i class="fab fa-linkedin"></i>
                             </a>
+                        </p>-->
+
+                        <p style="text-align: justify; padding:20px;">
+                            Doing his undergraduate studies in business, Samay is a blockchain enthusiast with great interest in the integration of this technology in future businesses. Having written a variety of papers on blockchain, Samay is planning of completing his degree with a research paper on blockchain as well.
                         </p>
                     </div>
                 </div>
             </div>
-            <!--<div class="col s12 m3">
-                <div class="card card-avatar">
+        </div>
+        <br>
+        <h4 style="text-align:center">  Contributors</h4>
+        <br>
+
+        <div class="row">
+            <div class="col s12 m3 offset-m2">
+                <div class=" card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/avatar4.png">
+                        <img class="activator" src="img/pranaya.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Robin<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Developer</a></em></small></span>
-                        <p>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-facebook"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-google-plus"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
+                        <h5><span class="card-title activator grey-text text-darken-4">Pranaya<br/>
+                            <small><em>Technical Researcher</em></small></span></h5>
+
+                        <!--<p style="text-align: justify; padding:20px;" id="nisargInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain
                         </p>
+                        <p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform
+                        </p>
+                        <p id="nisargReadMore" style="cursor: pointer;color:#787878"> Read More </p>-->
                     </div>
                 </div>
             </div>
             <div class="col s12 m3">
-                <div class="card card-avatar">
+                <div class=" card-avatar">
                     <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/avatar4.png">
+                        <img class="activator" src="img/ruchika.jpeg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Robin<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Developer</a></em></small></span>
-                        <p>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-facebook"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-google-plus"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
+                        <h5><span class="card-title activator grey-text text-darken-4">Ruchika<br/>
+                            <small><em>ML Researcher</em></small></span></h5>
+
+                        <!--<p style="text-align: justify; padding:20px;" id="nisargInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain
                         </p>
+                        <p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform
+                        </p>
+                        <p id="nisargReadMore" style="cursor: pointer;color:#787878"> Read More </p>-->
                     </div>
                 </div>
-            </div> -->
+            </div>
+            <div class="col s12 m3">
+                <div class=" card-avatar">
+                    <div class="waves-effect waves-block waves-light">
+                        <img class="activator" src="img/samay.jpeg">
+                    </div>
+                    <div class="card-content">
+                        <h5><span class="card-title activator grey-text text-darken-4">Annuj<br/>
+                            <small><em>ML Researcher</em></small></span></h5>
+
+                        <!--<p style="text-align: justify; padding:20px;" id="nisargInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain
+                        </p>
+                        <p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
+                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform
+                        </p>
+                        <p id="nisargReadMore" style="cursor: pointer;color:#787878"> Read More </p>-->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
