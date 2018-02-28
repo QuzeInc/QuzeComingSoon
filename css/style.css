@@ -513,3 +513,45 @@ button {
 
 /* ======================================= MEDIA FOR BUTTON ============================================== */
 
+
+
+/*@media only screen and (max-width: 600px) {
+    #subscribe{
+        position: absolute;
+        padding-left: 0;
+        padding-right: 0;
+        width: 35%;
+        left: 66.8%;
+        margin-left: -17.5%;
+        top: 55%;
+    }
+}
+@media only screen and (min-width: 600px) {
+    #subscribe{
+        padding-left: 0;
+        padding-right: 0;
+        position: absolute;
+        width: 18%;
+        left: 59%;
+        margin-left: -9%;
+        top: 90%;
+  } 
+}*/
+
+@media only screen and (max-width: 600px) {
+    .SubscribeModal-trigger{
+      left: 46%;
+    }
+}
+ 
+@media only screen and (max-width: 992px) {
+    .SubscribeModal-trigger{
+      left: 47.4%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .SubscribeModal-trigger{
+      left: 48.5%;
+    }
+}
