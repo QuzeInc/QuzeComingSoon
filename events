@@ -46,17 +46,17 @@
 
     <div class="container-fluid">
         <div class="row">
-            <p id="event-date" class="col offset-m1">March 3rd and 4th, 2018</p>
+            <p id="event-date" class="col offset-m1"><!-- March 3rd and 4th, 2018 -->Past Events</p>
             <hr id="main-hr">
         </div>
 
         <div class="row">
             <div class="col l4 m10 s12 offset-m1 offset-l1">
                 <img src="img/event.png" class="responsive-img event-img" /><br><br>
-                <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">BOOK NOW</a> <!-- Trigger Paymodal. -->
+                <!-- <a href="#" class="Paymodal-trigger" data-Paymodal="Paymodal-name">BOOK NOW</a>  --><!-- Trigger Paymodal. -->
                     
                 <!-- Paymodal -->
-                <div class="Paymodal" id="Paymodal-name">
+                <!-- <div class="Paymodal" id="Paymodal-name">
                   <div class="Paymodal-sandbox"></div>
                   <div class="Paymodal-box">
                     <div class="Paymodal-header">
@@ -72,10 +72,10 @@
 
                       <a href="https://www.instamojo.com/quzeindia/bitcoin-and-and-its-underlying-technology-bl/" rel="im-checkout" data-behaviour="remote" data-style="flat" data-text="Book Now For March 4th"></a>
                       
-                      <!-- <button class="close-Paymodal">Done</button> -->
+                      //TO BE COMMENTED!!! <button class="close-Paymodal">Done</button> 
                     </div>
                   </div>
-                </div>
+                </div> -->
                 
             </div>
             <div class="col m10 l4 s12 offset-m1 offset-l1">
