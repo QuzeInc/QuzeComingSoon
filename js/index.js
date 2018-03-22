@@ -202,8 +202,8 @@ $(document).ready(function(){
             $("#nav_f").css({"color" : "white"});
             $("#logo-container").css({"color" : "white"});
             $(".navElements").css({"color" : "white"});
-            // $("#nav-mobile").css({"background-color":"black", "color" : "white"});
-            $("#nav-mobile").css({"color" : "white"});
+            $("#nav-mobile").css({"background-color":"rgba(0, 0, 0, 0.75)", "color" : "white"});
+            //$("#nav-mobile").css({"color" : "white"});
             $(".side-nav a").css({"color" : "white"});
             // $("#hamgburgerMenu").removeClass("fa fa-bars white-text1");
             // $("#hamgburgerMenu").addClass("fa fa-bars black-text");
@@ -216,8 +216,8 @@ $(document).ready(function(){
             $("#nav_f").css({"color" : "black"});
             $("#logo-container").css({"color" : "black"});
             $(".navElements").css({"color" : "black"});
-            // $("#nav-mobile").css({"background-color":"white", "color" : "black"});
-            $("#nav-mobile").css({"color" : "black"});
+            $("#nav-mobile").css({"background-color":"rgba(255, 255, 255, 0.75)", "color" : "black"});
+            //$("#nav-mobile").css({"color" : "black"});
             $(".side-nav a").css({"color" : "black"});
             // $("#hamgburgerMenu").removeClass("fa fa-bars white-text1");
             // $("#hamgburgerMenu").addClass("fa fa-bars black-text");

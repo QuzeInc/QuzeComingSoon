@@ -24,7 +24,7 @@
         <nav id="nav_f" role="navigation">
             <div class="container">
                 <div class="nav-wrapper">
-                    <a href="index" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px;">QUZE</span></strong></a>
+                    <a href="index" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px; color: black">QUZE</span></strong></a>
                     <ul class="right hide-on-med-and-down" id="top-menu">
                         <li><a href="index"><span style="font-size: 16px;">MISSION</span></a></li>
                         <li><a href="index"><span style="font-size: 16px;">APP</span></a></li>
@@ -38,7 +38,7 @@
                         <li><a href="#" style="font-weight:bold;">EVENTS</a></li>
 
                     </ul>
-                    <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars white-text"></i></a>
+                    <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars black-text"></i></a>
                 </div>
             </div>
         </nav>

@@ -67,13 +67,19 @@
 #nav_f{
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
-    opacity: 0.75;
-    background-color: black;
+//    opacity: 0.75;
+    background-color: rgba(255, 255, 255, 00);
+    color: black;
 }
-
+nav ul a{
+  color: black;
+}
+.black-text{
+  color: black;
+}
 .brand-logo{
     position: absolute;
-    color: white;
+//    color: white;
     display: inline-block;
     font-size: 2.1rem;
     font-style: normal;
@@ -91,11 +97,14 @@
 }
 
 #nav-mobile{
-  color: white !important;
-  background-color: black;
+  color: black !important;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 #nav-mobile :hover{
-  background-color: black; 
+  background-color: white; 
+}
+.side-nav a{
+  color: black;
 }
 
 /* Payment modal section */
