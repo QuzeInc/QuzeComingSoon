@@ -198,6 +198,18 @@ $(document).ready(function(){
         //     }
         // }
         if(aon==="active"){
+            $("#nav_f").css({"background-color":"black", "color" : "white"});
+            $("#logo-container").css({"color" : "white"});
+            $(".navElements").css({"color" : "white"});
+            $("#nav-mobile").css({"background-color":"black", "color" : "white"});
+            $(".side-nav a").css({"color" : "white"});
+            // $("#hamgburgerMenu").removeClass("fa fa-bars white-text1");
+            // $("#hamgburgerMenu").addClass("fa fa-bars black-text");
+            // $("#hamburgerMenu").children().remove();
+            // $("#hamburgerMenu").append('<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars white-text"></i></a>');            
+
+        }
+        else{
             $("#nav_f").css({"background-color":"white", "color" : "black"});
             $("#logo-container").css({"color" : "black"});
             $(".navElements").css({"color" : "black"});
@@ -210,18 +222,6 @@ $(document).ready(function(){
         //     $("#hamburgerMenu").append('<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars black-text"></i></a>');
         //
         }
-        else{
-            $("#nav_f").css({"background-color":"black", "color" : "white"});
-            $("#logo-container").css({"color" : "white"});
-            $(".navElements").css({"color" : "white"});
-            $("#nav-mobile").css({"background-color":"black", "color" : "white"});
-            $(".side-nav a").css({"color" : "white"});
-            // $("#hamgburgerMenu").removeClass("fa fa-bars white-text1");
-            // $("#hamgburgerMenu").addClass("fa fa-bars black-text");
-            // $("#hamburgerMenu").children().remove();
-            // $("#hamburgerMenu").append('<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars white-text"></i></a>');            
-
-        }
-    }, 200);
+    }, 20);
 });
     
