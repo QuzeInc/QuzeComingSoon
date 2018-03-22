@@ -44,7 +44,7 @@
         </nav>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid" id="body">
         <div class="row">
             <p id="event-date" class="col offset-m1"><!-- March 3rd and 4th, 2018 -->Past Events</p>
             <hr id="main-hr">

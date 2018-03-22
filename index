@@ -34,10 +34,10 @@
             <div class="nav-wrapper">
             <a href="#" id="logo-container" class="brand-logo"><strong><span style="font-size: 24px;">QUZE</span></strong></a>
                 <ul class="right hide-on-med-and-down" id="top-menu">
-                    <li><a href="#mission"><span style="font-size: 16px;">MISSION</span></a></li>
-                    <li><a href="#app"><span style="font-size: 16px;">APP</span></a></li>
-                    <li><a href="#team"><span style="font-size: 16px;">TEAM</span></a></li>
-                    <li><a href="events"><span style="font-size: 16px;">EVENTS</span></a></li>
+                    <li id="navChanging"><a href="#mission" class="navElements"><span style="font-size: 16px;">MISSION</span></a></li>
+                    <li><a href="#app" class="navElements"><span style="font-size: 16px;">APP</span></a></li>
+                    <li><a href="#team" class="navElements"><span style="font-size: 16px;">TEAM</span></a></li>
+                    <li><a href="events" class="navElements"><span style="font-size: 16px;">EVENTS</span></a></li>
                 </ul>
                 <ul id="nav-mobile" class="side-nav">
                     <li><a href="#mission">MISSION</a></li>
@@ -45,8 +45,7 @@
                     <li><a href="#team">TEAM</a></li>
                     <li><a href="events">EVENTS</a></li>
                 </ul>
-            <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars white-text"></i></a>
-            </div>
+                <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars my-text" id="hamburgerMenu"></i></a>
         </div>
     </nav>
 </div>
@@ -686,12 +685,11 @@ With an amazing foundational technology like blockchain and other futuretech lik
     <!--  Scripts-->
     <!-- <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="js/index.js"></script>
     <script src="min/plugin-min.js"></script>
     <script src="min/custom-min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
     <script src="js/timeline.js"></script>
     <script type="text/javascript" src="js/scrollspy.js"></script>
-
 
     </body>
 </html>

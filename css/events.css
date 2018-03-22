@@ -5,6 +5,10 @@
     font-family: 'Nunito', sans-serif;
 }
 
+#body{
+  padding-top : 3em;
+}
+
 .event-img
 {
     /*margin-left:13em;*/
