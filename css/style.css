@@ -53,8 +53,8 @@
 #nav_f{
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
-    opacity: 0.75;
-    background-color: white;
+//    opacity: 0.75;
+    background-color: rgba(255, 255, 255, 00);
 }
 #top-menu li.active{
 //  background-color: white;
