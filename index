@@ -1,387 +1,399 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-    <meta name="theme-color" content="black">
-    <link rel="shortcut icon" href="img/img3.png"/>
-    <title> Quze | The Blockchain powered wallet for all your learning</title>
-    <!-- CSS  -->
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+	<meta http-equiv="Content-Type" content="text/html"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+	<meta charset="utf-8">
+	<meta name="theme-color" content="black">
+	<meta name="description" content="A vault for all your accomplishments and accolades.
+We aim to create a world where every individual has a way to learn what he really wants to learn.
+With an amazing foundational technology like blockchain and other futuretech like Machine Learning, Artificial Intelligence, Cloud Computing and many more, we have the power to create an entirely new substructure for existing education system. Today the authorities are not aware about the utility and benefits of these technologies. We envision a future where acquiring and monetizing the skills would be on click of a button. Our platform would bridge the gap between online education and traditional classroom learning by providing a blockchain based solutions that allows to gain personalized learning paths and acquire new skills.">
 
-    <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
-    <link href="css/style.css" type="text/css" rel="stylesheet" >
-    <link href="css/footer.css" type="text/css" rel="stylesheet">
+	<meta property="og:title" content="Quze | The Learning Grid">
+	<meta property="og:description" content="A vault for all your accomplishments and accolades.
+We aim to create a world where every individual has a way to learn what he really wants to learn.
+With an amazing foundational technology like blockchain and other futuretech like Machine Learning, Artificial Intelligence, Cloud Computing and many more, we have the power to create an entirely new substructure for existing education system. Today the authorities are not aware about the utility and benefits of these technologies. We envision a future where acquiring and monetizing the skills would be on click of a button. Our platform would bridge the gap between online education and traditional classroom learning by providing a blockchain based solutions that allows to gain personalized learning paths and acquire new skills.">
 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+	<link rel="shortcut icon" href="img/img3.png"/>
+
+	<title>Quze | The Learning Grid</title>
+
+	<!-- CSS  -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+	<link href="min/plugin-min.css" type="text/css" rel="stylesheet">
+	<link href="css/style.css" type="text/css" rel="stylesheet" >
+	<link href="css/footer.css" type="text/css" rel="stylesheet">
+
+	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 </head>
 <body id="top" class="scrollspy">
 
 <!-- Pre Loader -->
 <div id="loader-wrapper">
-    <div id="loader"></div>
+	<div id="loader"></div>
  
-    <div class="loader-section section-left"></div>
-    <div class="loader-section section-right"></div>
+	<div class="loader-section section-left"></div>
+	<div class="loader-section section-right"></div>
  
 </div>
 
 <!--Navigation-->
  <div class="navbar-fixed">
-    <nav id="nav_f" role="navigation">
-        <div class="container">
-            <div class="nav-wrapper">
-            <a href="#" id="logo-container" class="brand-logo"><strong><span>QUZE</span></strong></a>
-                <ul class="right hide-on-med-and-down" id="top-menu">
-                    <li id="navChangingM"><a href="#mission" class="navElements"><span style="font-size: 16px;">MISSION</span></a></li>
-                    <li id="navChangingA"><a href="#app" class="navElements"><span style="font-size: 16px;">APP</span></a></li>
-                    <li id="navChangingT"><a href="#team" class="navElements"><span style="font-size: 16px;">TEAM</span></a></li>
-                    <li><a href="events" class="navElements"><span style="font-size: 16px;">EVENTS</span></a></li>
-                </ul>
-                <ul id="nav-mobile" class="side-nav">
-                    <li><a href="#mission">MISSION</a></li>
-                    <li><a href="#app">APP</a></li>
-                    <li><a href="#team">TEAM</a></li>
-                    <li><a href="events">EVENTS</a></li>
-                </ul>
-                <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars my-text" id="hamburgerMenu"></i></a>
-        </div>
-    </nav>
+	<nav id="nav_f" role="navigation">
+		<div class="container">
+			<div class="nav-wrapper">
+			<a href="#" id="logo-container" class="brand-logo"><strong><span>QUZE</span></strong></a>
+				<ul class="right hide-on-med-and-down" id="top-menu">
+					<li id="navChangingM"><a href="#mission" class="navElements"><span style="font-size: 16px;">MISSION</span></a></li>
+					<li id="navChangingA"><a href="#app" class="navElements"><span style="font-size: 16px;">APP</span></a></li>
+					<li id="navChangingT"><a href="#team" class="navElements"><span style="font-size: 16px;">TEAM</span></a></li>
+					<li><a href="events" class="navElements"><span style="font-size: 16px;">EVENTS</span></a></li>
+				</ul>
+				<ul id="nav-mobile" class="side-nav">
+					<li><a href="#mission">MISSION</a></li>
+					<li><a href="#app">APP</a></li>
+					<li><a href="#team">TEAM</a></li>
+					<li><a href="events">EVENTS</a></li>
+				</ul>
+				<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="fa fa-bars my-text" id="hamburgerMenu"></i></a>
+		</div>
+	</nav>
 </div>
  
 <!--Hero-->
 <div class="section no-pad-bot" id="index-banner">
-    <div class="container">
-        <div class="row">
+	<div class="container">
+		<div class="row">
 
-            <div class="col l12 s12">
-                <div class="row"><img src="img/img3.png" id="logo" class="responsive-img center-align" height="300" width="300"></div>
-                <!-- <h1 class="center text_h">COMING SOON</h1> -->
-                <h4 class="center text_h21">The Learning Grid</h4>
-            </div>
+			<div class="col l12 s12">
+				<div class="row"><img src="img/img3.png" id="logo" class="responsive-img center-align" height="300" width="300"></div>
+				<!-- <h1 class="center text_h">COMING SOON</h1> -->
+				<h4 class="center text_h21">The Learning Grid</h4>
+			</div>
 
-        </div>
-        <div class="row">
-            <!-- Subscribe modal -->
-            <a href="#" class="SubscribeModal-trigger button" data-SubscribeModal="SubscribeModal-name" id="subscribe">SUBSCRIBE</a>
-            <div class="SubscribeModal" id="SubscribeModal-name">
-              <div class="SubscribeModal-sandbox"></div>
-              <div class="SubscribeModal-box">
-                <div class="SubscribeModal-header">
-                  <div class="close-SubscribeModal">&#10006;</div> 
-                  <h5 style="color:black;" class="button">SUBSCRIBE</h5>
-                </div>
-                <div class="SubscribeModal-body">
-                  <form action="https://formkeep.com/f/be91b4aa58bd" method="POST" accept-charset="UTF-8">
+		</div>
+		<div class="row">
+			<!-- Subscribe modal -->
+			<a href="#" class="SubscribeModal-trigger button" data-SubscribeModal="SubscribeModal-name" id="subscribe">SUBSCRIBE</a>
+			<div class="SubscribeModal" id="SubscribeModal-name">
+			  <div class="SubscribeModal-sandbox"></div>
+			  <div class="SubscribeModal-box">
+				<div class="SubscribeModal-header">
+				  <div class="close-SubscribeModal">&#10006;</div> 
+				  <h5 style="color:black;" class="button">SUBSCRIBE</h5>
+				</div>
+				<div class="SubscribeModal-body">
+				  <form action="https://formkeep.com/f/be91b4aa58bd" method="POST" accept-charset="UTF-8">
 
-                    <input type="text" name="Name" placeholder="Name" id="subscribeName" />
-                    <input type="text" name="email" placeholder="Email" id="subscribeEmail" />
-                    <p class="subscribe-send">Send</p>
+					<input type="text" name="Name" placeholder="Name" id="subscribeName" />
+					<input type="text" name="email" placeholder="Email" id="subscribeEmail" />
+					<p class="subscribe-send">Send</p>
 
-                  </form>
-                </div>
-              </div>
-            </div>
+				  </form>
+				</div>
+			  </div>
+			</div>
 
-        </div>
-    </div>
+		</div>
+	</div>
 </div>
 
 <!--Intro and service-->
 <div id="mission" class="section scrollspy">
-    <div class="container">
-        <div class="row">
-            <div  class="col s12">
-                <h2 class="center header text_h2">TO PUT EDUCATION ON BLOCKCHAIN, WORLDWIDE.</h2>
-                <p class="missionp">A vault for all your accomplishments and accolades.
+	<div class="container">
+		<div class="row">
+			<div  class="col s12">
+				<h2 class="center header text_h2">TO PUT EDUCATION ON BLOCKCHAIN, WORLDWIDE.</h2>
+				<p class="missionp">A vault for all your accomplishments and accolades.
 We aim to create a world where every individual has a way to learn what he really wants to learn.
 With an amazing foundational technology like blockchain and other futuretech like Machine Learning, Artificial Intelligence, Cloud Computing and many more, we have the power to create an entirely new substructure for existing education system. Today the authorities are not aware about the utility and benefits of these technologies. We envision a future where acquiring and monetizing the skills would be on click of a button. Our platform would bridge the gap between online education and traditional classroom learning by providing a blockchain based solutions that allows to gain personalized learning paths and acquire new skills.</p>
-            </div>
+			</div>
 
-            <div class="col s12 m6 l3">
-                <br><br>
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
-                        <img class="activator" src="img/featureImg1.svg" style="max-width: 50%; left:25%;">
-                    </div>
-                    <div class="card-content"  style="color: white;background-color: black">
-                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Learners</p>
-                        <p style="color:white">People who are interested to learn new skills.The student public vault would be having the record of all the skills he acquired. The student has complete ownership of his records but can't falsify them</p>
-                    </div>
-                </div>
+			<div class="col s12 m6 l3">
+				<br><br>
+				<div class="card">
+					<div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+						<img class="activator" src="img/featureImg1.svg" style="max-width: 50%; left:25%;">
+					</div>
+					<div class="card-content"  style="color: white;background-color: black">
+						<p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Learners</p>
+						<p style="color:white">People who are interested to learn new skills.The student public vault would be having the record of all the skills he acquired. The student has complete ownership of his records but can't falsify them</p>
+					</div>
+				</div>
 
-            </div>
-            <div class="col s12 m6 l3">
-                <br><br>
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
-                        <img class="activator" src="img/featureImg2.svg" style="max-width: 50%; left:25%;">
-                    </div>
-                    <div class="card-content" style="color: white;background-color: black">
-                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Educators</p>
-                        <p style="color: white">People who wish to provide the skills and monetize their skills. This platform creates a distributed yet structural system of learning to provide people means of transferring skills outside school hours.</p>
-                    </div>
-                    <div class="card-reveal" style="background-color: black;">
-                        <span class="card-title white-text text-darken-4">Educators<i class="mdi-navigation-close right"></i></span>
-                        <p style="color: white">People who wish to provide the skills and monetize their skills. This platform creates a distributed yet structural system of learning to provide people means of transferring skills outside school hours.</p>
-                    </div>
-                </div>
+			</div>
+			<div class="col s12 m6 l3">
+				<br><br>
+				<div class="card">
+					<div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+						<img class="activator" src="img/featureImg2.svg" style="max-width: 50%; left:25%;">
+					</div>
+					<div class="card-content" style="color: white;background-color: black">
+						<p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Educators</p>
+						<p style="color: white">People who wish to provide the skills and monetize their skills. This platform creates a distributed yet structural system of learning to provide people means of transferring skills outside school hours.</p>
+					</div>
+					<div class="card-reveal" style="background-color: black;">
+						<span class="card-title white-text text-darken-4">Educators<i class="mdi-navigation-close right"></i></span>
+						<p style="color: white">People who wish to provide the skills and monetize their skills. This platform creates a distributed yet structural system of learning to provide people means of transferring skills outside school hours.</p>
+					</div>
+				</div>
 
 
-            </div>
-            <div class="col s12 m6 l3">
-                <br><br>
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
-                        <img class="activator" src="img/featureImg4.svg" style="max-width: 50%; left:25%;">
-                    </div>
-                    <div class="card-content" style="color: white;background-color: black">
-                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Employers</p>
-                        <p style="color: white;">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform with blockchain verified skills. The employers will be able to verify all through access to his vault</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m6 l3">
-                <br><br>
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light" style="background-color: black">
-                        <img class="activator" src="img/featureImg3.png" style="max-width: 50%; left:25%;">
-                    </div>
-                    <div class="card-content" style="color: white;background-color: black">
-                        <p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Institutions</p>
-                        <p style="color:white">They will act as the quality checkers for the content. They will provide and verify the content and ensuring the quality of the courses. Any institution would be able to push in records onto the students profile.</p>
-                    </div>
-                </div>
+			</div>
+			<div class="col s12 m6 l3">
+				<br><br>
+				<div class="card">
+					<div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+						<img class="activator" src="img/featureImg4.svg" style="max-width: 50%; left:25%;">
+					</div>
+					<div class="card-content" style="color: white;background-color: black">
+						<p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Employers</p>
+						<p style="color: white;">Organizations that seek to hire the right kind of candidate for a job can look for them on our platform with blockchain verified skills. The employers will be able to verify all through access to his vault</p>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6 l3">
+				<br><br>
+				<div class="card">
+					<div class="card-image waves-effect waves-block waves-light" style="background-color: black">
+						<img class="activator" src="img/featureImg3.png" style="max-width: 50%; left:25%;">
+					</div>
+					<div class="card-content" style="color: white;background-color: black">
+						<p class="card-title activator white-text text-darken-0" style="text-align:center;font-size: 25px">Institutions</p>
+						<p style="color:white">They will act as the quality checkers for the content. They will provide and verify the content and ensuring the quality of the courses. Any institution would be able to push in records onto the students profile.</p>
+					</div>
+				</div>
 
-            </div>
-        </div>
-    </div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <!--Parallax-->
 <!-- <div class="parallax-container">
-    <div class="parallax"><img src="img/education-student.jpg"></div>
+	<div class="parallax"><img src="img/education-student.jpg"></div>
 </div> -->
 
 <div id="app">
-    <div class="row">
-        <img src="img/iphonex2.png" id="iphonex" class="col s12" />
-    </div>
-    <div class="row" style="background-color: #55a0fa;margin-top: -20px;">
-        <div id="infoApp">
-            <img src="img/verify1.png" class=" col m6 responsive-img" id="image1" />
-            <div  class="col m6">
-                <h4 class="center" id="textApp">Students, Issuers and Third-Party organisations will be able to view and verify the certificates in just one go by clicking the verify button.</h4>
-            </div> 
-        </div>        
-    </div>
+	<div class="row">
+		<img src="img/iphonex2.png" id="iphonex" class="col s12" />
+	</div>
+	<div class="row" style="background-color: #55a0fa;margin-top: -20px;">
+		<div id="infoApp">
+			<img src="img/verify1.png" class=" col m6 responsive-img" id="image1" />
+			<div  class="col m6">
+				<h4 class="center" id="textApp">Students, Issuers and Third-Party organisations will be able to view and verify the certificates in just one go by clicking the verify button.</h4>
+			</div> 
+		</div>        
+	</div>
 </div>
 
 <!--Team-->
 <div class="section scrollspy" id="team">
-    <div class="container">
+	<div class="container">
 
-        <br>
-        <h4 style="text-align:center"> Core Team</h4>
-        <br>
-        <!-- <h2 class="header text_b center"> Our Team </h2> -->
-        <div class="row">
-            <div class="col s12 m3 offset-m2" id="stavanReadMore">
-                <div class="card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/stavan2.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Stavan<br/>
-                            <small><em>CEO</em></small></span></h5>
-                        <p id="stavanMoreInfo" style="text-align: justify;padding: 20px; display:none;">
-                            Stavan is the CEO &amp; Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology. He also shares a passion for teaching and has varied experience simplifying complex technological concepts to masses around the world. He has taught around Americas, Europe, Africa and Asia and understands how the education system can be evolved to fit the student of today. Before Quze, Stavan was working with Microsoft, developing custom-cloud solutions for Fortune-500 clients and creating intuitive user experiences.
-                        </p>
-                       <!--  <p id="stavanReadMore" style="cursor: pointer; color:#787878">
-                            Read More</p> -->
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3" id="akshayReadMore">
-                <div class="card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/akshay.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Akshay<br/>
-                            <small><em>Technical Advisor</em></small>
-                        </span></h5>
-                        <!--<p>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-facebook"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-google-plus"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="#">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
-                        </p>-->
-                        <p style="text-align: justify;padding: 20px;display: none;"id="akshayMoreInfo">
-                            Akshay brings his experience in blockchain development, algorithms and building large scale software systems to Quze. As a Software Development Engineer in Amazon transportation, Akshay was responsible for designing a new optimization system that reduced $150mn in transportation costs annually, as well as graph algorithms for identifying missed opportunities in the transportation network. Akshay has an engineering degree with honors and a minor in business from University of Illinois at Urbana-Champaign.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3" id="jayaReadMore">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/jaya.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">
-                            Jaya<br/>
-                            <small><em>CFO</em></small>
-                        </span></h5>
-                        <p style="text-align: justify;padding: 20px; display:none;" id="jayaMoreInfo">
-                            Jaya is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem. She has worked with various social organizations to understand the people and their needs better. During her graduation she scored a scholarship program with the University of Economics Varna and immidiately after the graduation, a scholarship program for investment banking with the Bombay Stock Exchange.
-                            She aims work in various sector and build a world where everyone is able to have basic needs of their life fulfilled.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col s12 m3 offset-m2" id="nisargReadMore">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/nisarg.png">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Nisarg<br/>
-                            <small><em>Backend Developer</em></small></span></h5>
-                        <p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
-                            Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3"  id="kartikeyaReadMore">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/kartikeya.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Kartikeya<br/>
-                            <small><em>Frontend Developer</em></small></span></h5>
-                        <p style="text-align: justify;padding: 20px; display:none" id="kartikeyaMoreInfo">
-                            Pursuing his undergraduate studies in computer sciences, Kartikeya is a software designer and developer with interests in developing beautiful interfaces and designs that feel natural to interact with. He is also passionate about working in the educational space to bring skill development opportunities to all the students through technology.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3" id="samayReadMore">
-                <div class="card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/anuj.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Samay<br/>
-                            <small><em>Blockchain Analyst</em></small></span></h5>
-                        <p style="text-align: justify; padding:20px; display: none;" id="samayMoreInfo">
-                            Doing his undergraduate studies in business, Samay is a blockchain enthusiast with great interest in the integration of this technology in future businesses. Having written a variety of papers on blockchain, Samay is planning of completing his degree with a research paper on blockchain as well.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <h4 style="text-align:center">  Contributors</h4>
-        <br>
+		<br>
+		<h4 style="text-align:center"> Core Team</h4>
+		<br>
+		<!-- <h2 class="header text_b center"> Our Team </h2> -->
+		<div class="row">
+			<div class="col s12 m3 offset-m2" id="stavanReadMore">
+				<div class="card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/stavan2.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Stavan<br/>
+							<small><em>CEO</em></small></span></h5>
+						<p id="stavanMoreInfo" style="text-align: justify;padding: 20px; display:none;">
+							Stavan is the CEO &amp; Founder of Quze, which is a blockchain-based education platform that aims to connect learners, educators, employers and more. Stavan is a blockchain evangelist and wants to show people the value of this disruptive technology. He also shares a passion for teaching and has varied experience simplifying complex technological concepts to masses around the world. He has taught around Americas, Europe, Africa and Asia and understands how the education system can be evolved to fit the student of today. Before Quze, Stavan was working with Microsoft, developing custom-cloud solutions for Fortune-500 clients and creating intuitive user experiences.
+						</p>
+					   <!--  <p id="stavanReadMore" style="cursor: pointer; color:#787878">
+							Read More</p> -->
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3" id="akshayReadMore">
+				<div class="card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/akshay.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Akshay<br/>
+							<small><em>Technical Advisor</em></small>
+						</span></h5>
+						<!--<p>
+							<a class="blue-text text-lighten-2" href="#">
+								<i class="fab fa-facebook"></i>
+							</a>
+							<a class="blue-text text-lighten-2" href="#">
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a class="blue-text text-lighten-2" href="#">
+								<i class="fab fa-google-plus"></i>
+							</a>
+							<a class="blue-text text-lighten-2" href="#">
+								<i class="fab fa-linkedin"></i>
+							</a>
+						</p>-->
+						<p style="text-align: justify;padding: 20px;display: none;"id="akshayMoreInfo">
+							Akshay brings his experience in blockchain development, algorithms and building large scale software systems to Quze. As a Software Development Engineer in Amazon transportation, Akshay was responsible for designing a new optimization system that reduced $150mn in transportation costs annually, as well as graph algorithms for identifying missed opportunities in the transportation network. Akshay has an engineering degree with honors and a minor in business from University of Illinois at Urbana-Champaign.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3" id="jayaReadMore">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/jaya.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">
+							Jaya<br/>
+							<small><em>CFO</em></small>
+						</span></h5>
+						<p style="text-align: justify;padding: 20px; display:none;" id="jayaMoreInfo">
+							Jaya is a business management graduate specializing in risk management and investment banking. Being interested in how people make deep connections with each through learning - mostly online, she is now focused on helping create a learning platforms using future tech to rewire the learning ecosystem. She has worked with various social organizations to understand the people and their needs better. During her graduation she scored a scholarship program with the University of Economics Varna and immidiately after the graduation, a scholarship program for investment banking with the Bombay Stock Exchange.
+							She aims work in various sector and build a world where everyone is able to have basic needs of their life fulfilled.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s12 m3 offset-m2" id="nisargReadMore">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/nisarg.png">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Nisarg<br/>
+							<small><em>Backend Developer</em></small></span></h5>
+						<p style="text-align: justify;padding: 20px; display:none" id="nisargMoreInfo">
+							Pursuing his undergraduate studies in computer sciences, Nisarg is a software designer and developer with interests in developing decentralized systems based on technologies like blockchain and integrating them with the power of Data analytics and Machine Learning algorithms to create applications that are intelligent, community-driven and scalable. Nisarg is currently working on blockchain based solutions for digital credentials storage and identity management for quze platform.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3"  id="kartikeyaReadMore">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/kartikeya.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Kartikeya<br/>
+							<small><em>Frontend Developer</em></small></span></h5>
+						<p style="text-align: justify;padding: 20px; display:none" id="kartikeyaMoreInfo">
+							Pursuing his undergraduate studies in computer sciences, Kartikeya is a software designer and developer with interests in developing beautiful interfaces and designs that feel natural to interact with. He is also passionate about working in the educational space to bring skill development opportunities to all the students through technology.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3" id="samayReadMore">
+				<div class="card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/samay.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Samay<br/>
+							<small><em>Blockchain Analyst</em></small></span></h5>
+						<p style="text-align: justify; padding:20px; display: none;" id="samayMoreInfo">
+							Doing his undergraduate studies in business, Samay is a blockchain enthusiast with great interest in the integration of this technology in future businesses. Having written a variety of papers on blockchain, Samay is planning of completing his degree with a research paper on blockchain as well.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<h4 style="text-align:center">  Contributors</h4>
+		<br>
 
-        <div class="row">
-            <div class="col s12 m3 offset-m2">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/pranaya.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Pranaya<br/>
-                            <small><em>Technical Researcher</em></small></span></h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/ruchika.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Ruchika<br/>
-                            <small><em>ML Researcher</em></small></span></h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m3">
-                <div class=" card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator responsive-img" src="img/samay.jpeg">
-                    </div>
-                    <div class="card-content">
-                        <h5><span class="card-title activator grey-text text-darken-4">Annuj<br/>
-                            <small><em>ML Researcher</em></small></span></h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+		<div class="row">
+			<div class="col s12 m3 offset-m2">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/pranaya.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Pranaya<br/>
+							<small><em>Technical Researcher</em></small></span></h5>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/ruchika.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Ruchika<br/>
+							<small><em>ML Researcher</em></small></span></h5>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m3">
+				<div class=" card-avatar">
+					<div class="waves-effect waves-block waves-light">
+						<img class="activator responsive-img" src="img/anuj.jpg">
+					</div>
+					<div class="card-content">
+						<h5><span class="card-title activator grey-text text-darken-4">Annuj<br/>
+							<small><em>ML Researcher</em></small></span></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 
 <div class="row">
-    <br><br><br><br>
-    <a href="events"><button class="eventsPageBtn button" style="width: 32%; left: 50%; margin-left: -16%; padding-right: 0;padding-left: 0;">VIEW EVENTS</button></a>
+	<br><br><br><br>
+	<a href="events"><button class="eventsPageBtn button" style="width: 32%; left: 50%; margin-left: -16%; padding-right: 0;padding-left: 0;">VIEW EVENTS</button></a>
 
 </div>
 
 <footer class="footer-distributed">
-    <div class="footer-left">
-        <h3>Quze</h3>
-        <p class="footer-links">
-            <a href="index">Home</a>
-            .
-            <a href="events">Events</a>
-            .
-            <a href="#mission">Mission</a>
-            .
-            <a href="#team">Team</a>
-        </p>
-        <p class="footer-company-name">Quze &copy; 2018</p>
-        <div class="footer-icons">
-            <a href="#"><i class="fab fa-facebook"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-snapchat"></i></a>
-        </div>
-    </div>
-    <div class="footer-right">
-        <p>Contact Us</p>
-        <form accept-charset="UTF-8" name="formFooter">
-            <input type="text" name="Name" placeholder="Name" id="formName" />
-            <input type="text" name="email" placeholder="Email" id="formEmail" />
-            <textarea name="message" placeholder="Message" id="formMessage"></textarea>
-            <p class="footer-send" id="footer-send" style="cursor:pointer">Send</p>
-        </form>
-    </div>
+	<div class="footer-left">
+		<h3>Quze</h3>
+		<p class="footer-links">
+			<a href="index">Home</a>
+			.
+			<a href="events">Events</a>
+			.
+			<a href="#mission">Mission</a>
+			.
+			<a href="#team">Team</a>
+		</p>
+		<p class="footer-company-name">Quze &copy; 2018</p>
+		<div class="footer-icons">
+			<a href="#"><i class="fab fa-facebook"></i></a>
+			<a href="#"><i class="fab fa-twitter"></i></a>
+			<a href="#"><i class="fab fa-instagram"></i></a>
+			<a href="#"><i class="fab fa-snapchat"></i></a>
+		</div>
+	</div>
+	<div class="footer-right">
+		<p>Contact Us</p>
+		<form accept-charset="UTF-8" name="formFooter">
+			<input type="text" name="Name" placeholder="Name" id="formName" />
+			<input type="text" name="email" placeholder="Email" id="formEmail" />
+			<textarea name="message" placeholder="Message" id="formMessage"></textarea>
+			<p class="footer-send" id="footer-send" style="cursor:pointer">Send</p>
+		</form>
+	</div>
 </footer>
 
-    <!--  Scripts-->
-    <!-- <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
-    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-    <script src="min/plugin-min.js"></script>
-    <script src="min/custom-min.js"></script>
-    <script type="text/javascript" src="js/index.js"></script>
-    <script src="js/timeline.js"></script>
-    <script type="text/javascript" src="js/scrollspy.js"></script>
+	<!--  Scripts-->
+	<!-- <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+	<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+	<script src="min/plugin-min.js"></script>
+	<script src="min/custom-min.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+	<script src="js/timeline.js"></script>
+	<script type="text/javascript" src="js/scrollspy.js"></script>
 
-    </body>
+	</body>
 </html>
