@@ -1,8 +1,12 @@
+before_deploy: pip install --user awscli
 deploy:
-  provider: s3
-  access_key_id: $AWS_ID
-  secret_access_key: $AWS_SECRET_KEY
-  bucket: quze.co
+  provider: script
+  script: ~/.local/bin/aws s3 sync dist s3://quze.co --region=us-east-1 --delete
+  skip_cleanup: true
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  on:
+    branch: master
 
 language: node_js
 node_js:
