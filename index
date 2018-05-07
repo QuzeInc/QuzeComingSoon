@@ -75,9 +75,9 @@
                 <div class="SubscribeModal-body">
                   <form action="https://formkeep.com/f/be91b4aa58bd" method="POST" accept-charset="UTF-8">
 
-                    <input type="text" name="Name" placeholder="Name" />
-                    <input type="text" name="email" placeholder="Email" />
-                    <button class="subscribe-send">Send</button>
+                    <input type="text" name="Name" placeholder="Name" id="subscribeName" />
+                    <input type="text" name="email" placeholder="Email" id="subscribeEmail" />
+                    <p class="subscribe-send">Send</p>
 
                   </form>
                 </div>
@@ -369,7 +369,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
             <input type="text" name="Name" placeholder="Name" id="formName" />
             <input type="text" name="email" placeholder="Email" id="formEmail" />
             <textarea name="message" placeholder="Message" id="formMessage"></textarea>
-            <button class="footer-send">Send</button>
+            <p class="footer-send" id="footer-send" style="cursor:pointer">Send</p>
         </form>
     </div>
 </footer>
