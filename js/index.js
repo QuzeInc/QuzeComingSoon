@@ -162,7 +162,7 @@ $(document).ready(function(){
 
 			$.ajax({
 				type: "POST",
-				url: "subscribeservice-dev.us-east-1.elasticbeanstalk.com",
+				url: "http://subscribeservice-dev.us-east-1.elasticbeanstalk.com",
 				data: data,
 				headers: headers,
 				success: function(){
@@ -189,7 +189,7 @@ $(document).ready(function(){
 
 			$.ajax({
 				type: "POST",
-				url: "subscribeservice-dev.us-east-1.elasticbeanstalk.com",
+				url: "http://subscribeservice-dev.us-east-1.elasticbeanstalk.com",
 				data: data,
 				headers: headers,
 				success: function(){
