@@ -145,6 +145,15 @@
 	font-weight: bold;
 	float: right;
 }
+.footer-distributed form p{
+	border-radius: 3px;
+	background-color:  #33383b;
+	color: #ffffff;
+	border: 0;
+	padding: 15px 50px;
+	font-weight: bold;
+	float: right;
+}
 .footer-send
 {
 	left:0;

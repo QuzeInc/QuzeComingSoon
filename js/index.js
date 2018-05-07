@@ -142,31 +142,61 @@ $(document).ready(function(){
 		},
 		4000
 	);
-});
 
-function sendFormData(){
-	console.log("called");
-	var email = $("#formEmail").val();
-	var name = $("#formName").val();
-	var message = $("#formMessage").val();
-	var headers = {
-		"Content-Type" : "application/json"
-	}
-	var data = {
-		"email" : email,
-		"name" : name,
-		"message" : message
-	};
-	data = JSON.stringify(data);
 
-	$.ajax({
-		type: "POST",
-		url: "subscribeservice-dev.us-east-1.elasticbeanstalk.com",
-		data: data,
-		headers: headers,
-		success: function(){
-				console.log("done");
+	$("#footer-send").click(
+		function(){
+			console.log("called");
+			email = $("#formEmail").val();
+			name = $("#formName").val();
+			message = $("#formMessage").val();
+			var headers = {
+				"Content-Type" : "application/json"
 			}
-	});
-}
+			var data = {
+				"email" : email,
+				"name" : name,
+				"message" : message
+			};
+			data = JSON.stringify(data);
+
+			$.ajax({
+				type: "POST",
+				url: "subscribeservice-dev.us-east-1.elasticbeanstalk.com",
+				data: data,
+				headers: headers,
+				success: function(){
+					console.log("done");
+				}
+			});
+		}
+	);
+	$(".subscribe-send").click(
+		function(){
+			console.log("called");
+			email = $("#subscribeEmail").val();
+			name = $("#subscribeName").val();
+			message = "";
+			var headers = {
+				"Content-Type" : "application/json"
+			}
+			var data = {
+				"email" : email,
+				"name" : name,
+				"message" : message
+			};
+			data = JSON.stringify(data);
+
+			$.ajax({
+				type: "POST",
+				url: "subscribeservice-dev.us-east-1.elasticbeanstalk.com",
+				data: data,
+				headers: headers,
+				success: function(){
+					console.log("done");
+				}
+			});
+		}
+	);
+});
 	
