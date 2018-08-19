@@ -89,7 +89,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
 
 					<input type="text" name="Name" placeholder="Name" id="subscribeName" />
 					<input type="text" name="email" placeholder="Email" id="subscribeEmail" />
-					<p class="subscribe-send">Send</p>
+					<button class="subscribe-send">Send</button>
 
 				  </form>
 				</div>
@@ -351,7 +351,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
 
 <div class="row">
 	<br><br><br><br>
-	<a href="events"><button class="eventsPageBtn button" style="width: 32%; left: 50%; margin-left: -16%; padding-right: 0;padding-left: 0;">VIEW EVENTS</button></a>
+	<a href="event.png"><button class="eventsPageBtn button" style="width: 32%; left: 50%; margin-left: -16%; padding-right: 0;padding-left: 0;">VIEW EVENTS</button></a>
 
 </div>
 
@@ -373,6 +373,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
 			<a href="#"><i class="fab fa-twitter"></i></a>
 			<a href="#"><i class="fab fa-instagram"></i></a>
 			<a href="#"><i class="fab fa-snapchat"></i></a>
+			<a href="https://www.linkedin.com/company/quze"><i class="fab fa-linkedin"></i></a>
 		</div>
 		<br />
 		<div id="contactInfo">
@@ -386,7 +387,7 @@ With an amazing foundational technology like blockchain and other futuretech lik
 			<input type="text" name="Name" placeholder="Name" id="formName" />
 			<input type="text" name="email" placeholder="Email" id="formEmail" />
 			<textarea name="message" placeholder="Message" id="formMessage"></textarea>
-			<p class="footer-send" id="footer-send" style="cursor:pointer">Send</p>
+			<button class="footer-send" id="footer-send" style="cursor:pointer">Send</button>
 		</form>
 	</div>
 </footer>
